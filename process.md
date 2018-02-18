@@ -66,6 +66,10 @@ This process should link to the interface requirements so that inconsistencies i
 When this process is complete, a Peer Review is often necessary to determine that no tests are missing
 through traceability analysis, and that all logical conditions are caught and tested.
 
+*NOTE*: It is *very* important that the verification steps taken for a specific development item are
+not performed by the same person who design that development item, this ensures a minimal level of
+understanding and clarity between multiple parties such that results are more robust overall.
+
 ## Quality Assurance
 It is important to have an internal process where independant parties monitor the proper
 use of design standards (both internal and external) to ensure all code remains consistent and
