@@ -4,7 +4,7 @@ verification of a smart contract's method to a given level of risk.
 It is a 5 letter grade score (A, B, C, D, E) that comes with a common set of standards
 for how that rigor is obtained. The risk levels are defined according to the OWASP model as:
 
-![Risk Rating](risk_level.png)
+![Risk Rating](risk_levels.png)
 
 We define `Likelihood` as the access control level (ACL) of a given method,
 and `Impact` as the ability of that method to affect the use or ownership of
