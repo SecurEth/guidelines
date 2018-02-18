@@ -15,20 +15,20 @@ each step in the design process:
 
 ## Planning
 An understanding of the overall system goals should be formalized through consensus
-with all major stakeholders. Any updates to these goals automatically triggers a complete
-review of all derieved requirements, which further cascades to a review of all affected
-implementation, verification, and certification documentation. A Preliminary Design Review
-can often aid in coming to consensus on the architectural decisions being made before
+with all major stakeholders. Any updates to these goals automatically trigger a complete
+review of all derived requirements, which further cascades to a review of all affected
+implementations, verifications, and certifications. A Preliminary Design Review
+can often aid in coming to consensus on the architectural decisions made before
 development begins.
 
 ## Development
-The overall system goals should be derieved into a series of requirements organized
+The overall system goals should be derived into a series of requirements organized
 by the smart contract implementation that will implement it. These requirements should
-be derieved further by smart contract method. For each method, the access control list (ACL)
+be derived further by smart contract methods. For each method, the access control list (ACL)
 and input assertions shall be defined and mentioned as a requirements for that method, as
 well as the interface that method provides.
 
-It is recommended to use the docstring of your relevant language to tracked these requirements.
+It is recommended to use the docstring of your relevant language to track these requirements.
 You can parallelize the verification effort at this point (assuming the requirements are locked down)
 so a set of test cases can be developed prior to the implementation phase (Test-Driven Development).
 
@@ -46,14 +46,14 @@ no mistakes in the implementation of the code that are easily caught.
 ## Verification
 The verification process is a combination of different levels of concerns. During the testing
 process, inconsistencies with the derived requirements may be found. It is important to formalize
-an impact analysis ensure modifications to the derived requirements get appropiately tracked by all.
+an impact analysis ensuring modifications to the derived requirements get appropiately tracked by all.
 
 Functional verification maps the derived requirements (which lead to the implementation)
 to a series of test cases that tests the proper implementation of that requirement.
 It is important to test both the positive and negative logical states of these requirements,
 in order to arrive precisely at the logical states described by those requirements.
 
-Coverage testing tests that the underlying implementation contains no problematic code that
+Coverage testing ensures that the underlying implementation contains no problematic code that
 could lead to troublesome states, and that no code is unreachable per the requirements described
 (reducing your attack surface and optimizing your gas usage). The Design Assurance Level leads to
 the level of coverage testing (statement, conditional, MC/DC) required.
@@ -63,11 +63,11 @@ the dapp as a whole. This is typically where issues with units and required inte
 This process should link to the interface requirements so that inconsistencies in the interface
 (both missing and unecessary interfaces) are caught and appropiately handled through impact analysis.
 
-We this process is complete, a Peer Review is often necessary to determine that no tests are missing
+When this process is complete, a Peer Review is often necessary to determine that no tests are missing
 through traceability analysis, and that all logical conditions are caught and tested.
 
 ## Quality Assurance
-It is important to have an internal process where independant parties monitor that the proper
+It is important to have an internal process where independant parties monitor the proper
 use of design standards (both internal and external) to ensure all code remains consistent and
 readable. This is important through the entire process, but especially important at the end to
 ensure only quality code makes it to the certification process (reducing impacts from certification).
@@ -84,7 +84,7 @@ impact analysis will lead to a determination of whether to go forward with relea
 After the smart contract system is certified and ready for release, a plan should be developed that
 comprehensively and clearly describes the process to monitor and/or react to scenarios as they occur.
 It is often useful to ensure that these mechanisms are included into the Development and Verification
-processes so that those mechanisms are also performing the correct actions. Resources should be allocated
+processes correct performing of the tooling. Resources should be allocated
 for this process that covers the necessary operational periods it will be in effect.
 This process should also include a means for alerting the stakeholders, maintaining an orderly and clear
 response when issue arise.
