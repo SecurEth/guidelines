@@ -2,7 +2,9 @@ If you have a question or concern, please list it here.
 
 If you have a suggestion for a modification to the guideliness via an SEG, please use the template below:
 
-(Don't forget to label your issue `SEG XXX: <Title>`!)
+(Don't forget to label your issue "SEG XXX: <Title>"!)
+
+---
 
 ## Preamble
 
