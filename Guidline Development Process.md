@@ -2,9 +2,9 @@
 
 This section describes the steps SecurEth will follow to create or modify a guideline and resulting tools, if appropriate.
 ## 1.1  Team
-Administrator: Rex Hygate
+Administrator: Rex Hygate (@RexShinka, rex@ethereumusecases.com)
 
-Guideline Writing Team Bryant Eisenbach, Roman Pavlovskyi
+Guideline Writing Team Bryant Eisenbach (@fubuloubu, bryant.eisenbach@gmail.com), Roman Pavlovskyi (@rpavlovs, rpavlovskyi@gmail.com)
 # 2.0 Top Level Guideline Approval
 
 Before work begins on a new guideline or a modification on an existing guideline, a concept document is developed and placed in the guideline repository of the SecurEth GitHub.  The document will stay on the GitHub for a minimum of 30 days, receiving comments.  Recent contributors to other guidelines will receive a e-mail or direct message indicating the creation of the Concept Document.  The goal of this section is to determine what guidelines our group should work on.  It determines what we will do next. 
