@@ -1,7 +1,7 @@
 # SMART CONTRACT DEVELOPMENT GUIDELINES
 
 Concept Document: | # 1
---------- | ---------
+--------- | :--------- |
 Date: | 18 Mar 2018
 Author: | Rex Hygate
 Title: | Risk Assessment Framework for Smart Contract Systems
