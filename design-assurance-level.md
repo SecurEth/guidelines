@@ -53,3 +53,18 @@ DAL E, having essentially no risk to the system, means the lowest level of testi
 
 DAL E methods do not need to be traceable to any system-level design goals,
 and can be debugging conviences requested by the designer.
+
+# Example logic for determining levels in Solidity
+
+.----------------------------------------------------------------------------------------------.
+|                                        SampleContract                                        |
+|----------------------------------------------------------------------------------------------|
+|   Method Name   | isPublic | canModifyState | hasExternalCalls | isHandlingAssets |   Risk   |
+|-----------------|----------|----------------|------------------|------------------|----------|
+| SampleContract  | false    | true           | false            | false            | Safe     |
+| isRich          | false    | false          | false            | false            | Safe     |
+| areMoniesNeeded | true     | false          | false            | false            | Safe     |
+| upvote          | true     | true           | false            | false            | Medium   |
+| acceptMonies    | true     | true           | true             | true             | Critical |
+'----------------------------------------------------------------------------------------------'
+```
