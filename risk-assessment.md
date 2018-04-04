@@ -12,7 +12,7 @@ a comprehensive analysis of all the possible calls.
   
 ![Risk Rating](risk_levels.png)
 
-Figure 1: OWASP Model
+Figure: OWASP Model
 
 Specifically, we define Likelihood as the access control level (ACL) of a given method,
 and Impact as the ability of that method to affect the use or ownership of valuable assets
