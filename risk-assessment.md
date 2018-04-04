@@ -3,7 +3,7 @@
 The core of this guideline is a model of understanding risk inherent to software development items for Smart Contract Systems.
 We will leverage the OWASP model, a common framework in software security, to develop this model.
 
-The OWASP model specifies that Risk = Likelihood x Impact. In order to quantify an identified risk
+The OWASP model specifies that `Risk = Likelihood x Impact`. In order to quantify an identified risk
 and communicate it to interested parties, it is necessary to quantify the Likelihood that an issue with occur
 and the Impact it will have on the platform or network.
 
@@ -14,7 +14,7 @@ a comprehensive analysis of all the possible calls.
 
 Figure: OWASP Model
 
-Specifically, we define Likelihood as the access control level (ACL) of a given method,
+Specifically, we define Likelihood as the [access control level](access-control-level) (ACL) of a given method,
 and Impact as the ability of that method to affect the use or ownership of valuable assets
 held in the state of Ethereum or otherwise block their intended use.
 
