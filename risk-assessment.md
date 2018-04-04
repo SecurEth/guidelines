@@ -21,4 +21,4 @@ held in the state of Ethereum or otherwise block their intended use.
 Understanding the risk inherent in the different functional components of your smart contract system
 is the first step towards performing the proper amount of verification and validation of those components.
 
-Please see [Design Assurance Levels](../design-assurance-level) for more information.
+Please see [Design Assurance Levels](design-assurance-level) for more information.
