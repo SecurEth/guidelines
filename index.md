@@ -2,13 +2,13 @@
 layout: page
 ---
 
-# Smart Contract Development Guidelines
+# Development Guidelines
 
 ---
 
 # Process
-Please review [process](process.md) for an overview of the suggested process for design.
+Please review [process](process) for an overview of the suggested process for design.
 
 # Toolsets
-Please review [toolsets](toolsets.md) for an overview of the suggested process for development
+Please review [toolsets](toolsets) for an overview of the suggested process for development
 of tooling that touches security-critical code.
