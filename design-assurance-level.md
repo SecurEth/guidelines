@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Design Assurance Level
 The *Design Assurance Level* (DAL) is the level of rigor needed to ensure comprehensive
 verification of a smart contract's method to a given level of risk.

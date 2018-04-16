@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Risk Assessment
 
 The core of this guideline is a model of understanding risk inherent to software development items for Smart Contract Systems.

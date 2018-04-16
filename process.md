@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Process Overview
 When developing a new project that will contain a complex set of smart contracts,
 it is import to follow a rigid process that creates a traceability between
