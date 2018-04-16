@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Top Level Guideline Approval
 
 Before work begins on a new guideline or a modification on an existing guideline,
