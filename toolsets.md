@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: guideline
+status: draft
+title: "Creating Toolsets"
 ---
 
-# Creating Toolsets
 As processes become well-defined, tools can be created to automate, augment, or otherwise aide
 developers in generating, analyzing, deploying, simulating, and testing smart contract code.
 Depending on the usecase of the toolset, it is necessary to determine the severity of a mistake in

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: guideline
+status: draft
+title: "Access Control Level"
 ---
-
-# Access Control Level
 
 In Ethereum, the concept of the Access Control Level (ACL) is paramount to creating effective smart contracts.
 Certain methods may be in control of valuable assets such as the ability to mint new tokens,

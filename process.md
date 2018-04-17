@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: guideline
+status: draft
+title: "Process Overview"
 ---
 
-# Process Overview
 When developing a new project that will contain a complex set of smart contracts,
 it is import to follow a rigid process that creates a traceability between
 your architectural requirements and your software implementation and verification.

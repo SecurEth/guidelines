@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: guideline
+status: draft
+title: "Risk Assessment"
 ---
-
-# Risk Assessment
 
 The core of this guideline is a model of understanding risk inherent to software development items for Smart Contract Systems.
 We will leverage the OWASP model, a common framework in software security, to develop this model.

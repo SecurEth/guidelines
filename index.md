@@ -1,9 +1,7 @@
 ---
-layout: page
----
-
-# Development Guidelines
-
+layout: guideline
+status: draft
+title: "Development Guidelines"
 ---
 
 # Process
