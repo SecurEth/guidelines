@@ -1,7 +1,5 @@
 # Smart Contract Development Guidelines
 
----
-
 This repository is used for the development of standards and methodologies formalizing
 security-conscious analysis and design of Ethereum smart contracts.
 
