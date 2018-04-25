@@ -100,3 +100,42 @@ That's a lot easier to do with this table then if I figured it out myself.
 Now let's say we get this code audited and they find a problem with the implementation of `doX()`.
 I make the updates and I know that `test_X` is the test I should look at to make sure I am accounting
 for whatever corner cases that exist which allowed the security bug.
+
+## Different scales of need
+
+This example works great for a smaller project, with 10 or less requirements, but it doesn't scale
+very well to larger projects with many requirements or multiple teams of people working on the same components.
+
+In those scenarios, changes are happening much more often, and with multiple people comes a higher liklihood that
+a change does not get communicated, or simply that our numbering scheme doesn't scale well.
+It will probably be easier to handle a larger project with many inter-operating smart contracts to have a single
+document that specifies the Goals and the Requirements that will implement them.
+Your file header would then become a separate document, which makes it clearer what the full story is
+in regards to how your Requirements meet your Goals.
+
+Now your documentation is separate from your code, and this could create a scenario where changes get lost.
+We recommend that you adopt a system that accounts for changes and a process for verifying updates are
+well-communicated and handled accordingly across the codebase.
+One way to acheive that is by changing our numbering scheme to a hash-based scheme for our requirement identifiers
+We use the first 2 bytes of the SHA-256 hash as follows
+(you might need more bytes for a larger set of requirements to protect against collisions):
+
+
+```markdown
+# Goal:
+This contract must do X, Y, and Z.
+
+# Requirements:
+@req FCF7  Do X
+@req 3D45  Do Y
+@req 3380  Do Z
+```
+
+In this system, if we decided that requirement `FCF7` doesn't fully encompass what it needs to,
+we might change that to "Do W and X".
+However, in doing this, the hash is updated to `4FE9`.
+Well, all our tests and implementations still say `FCF7` which is no longer a valid requirement ID,
+so we have to go through and make sure we update all the places it was referenced and validate that
+the statements we were making are still valid.
+This forces us to reconcile changes as they happen, and ensures that all changes are well-communicated
+to the team, otherwise the report will break and the traceability will be incomplete.
