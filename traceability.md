@@ -62,7 +62,7 @@ def acceptPayment():
 
 It is starting to sound complicated, but now I can make a simple table that tells me where everything is:
 
-| Requirement | Method(s) |
+| Req ID | Method(s) |
 | --- | --- |
 | 1 | `doX()` |
 | 2 | `doSomething()`, `doSomethingElse()` |
@@ -85,7 +85,7 @@ def test_Z(contract):
 
 And I can create a table for this too:
 
-| Requirement | Method(s) | Test(s) |
+| Req ID | Method(s) | Test(s) |
 | --- | --- | --- |
 | 1 | `doX()` | `test_X` |
 | 2 | `doSomething()`, `doSomethingElse()` | `test_Y` |
@@ -130,6 +130,14 @@ This contract must do X, Y, and Z.
 @req 3D45  Do Y
 @req 3380  Do Z
 ```
+
+Our table now looks like this:
+
+| Req ID | Method(s) | Test(s) |
+| --- | --- | --- |
+| FCF7 | `doX()` | `test_X` |
+| 3D45 | `doSomething()`, `doSomethingElse()` | `test_Y` |
+| 3380 | `doSomething()`, `acceptPayment()` | `test_Z` |
 
 In this system, if we decided that requirement `FCF7` doesn't fully encompass what it needs to,
 we might change that to "Do W and X".
