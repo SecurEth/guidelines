@@ -1,4 +1,8 @@
-# Traceability
+---
+layout: guideline
+status: draft
+title: "Traceability"
+---
 
 ## Why is it important?
 
