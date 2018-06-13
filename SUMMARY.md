@@ -16,6 +16,7 @@
 * [Testing](development/testing.md)
 * [Traceability](development/traceability.md)
 * [Managing Changes](development/managing-changes.md)
+* [Peer Reviews](development/peer-reviews.md)
 
 ## Deployment
 
@@ -27,7 +28,6 @@
 ## Security Audit
 
 * [Preparing for an Audit](security-audit/preparing-for-an-audit.md)
-* [Peer Reviews](security-audit/peer-reviews.md)
 * [Test Results](security-audit/test-results/README.md)
   * [Coverage](security-audit/test-results/coverage.md)
   * [Tool Reports](security-audit/test-results/tool-reports.md)
