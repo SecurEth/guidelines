@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](index.md)
+* [Change Management](development-1.md)
 
 ## Planning a Project
 
