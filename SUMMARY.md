@@ -1,4 +1,4 @@
-# Sumary (this doesn't do anything lol)
+# Summary (this doesn't do anything lol)
 
 ### Planning a Project
 * [System Description](planning/system-description.md)
