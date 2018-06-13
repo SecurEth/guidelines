@@ -18,6 +18,7 @@
   * [Architecture](development/writing-code/architecture.md)
   * [Implementation](development/writing-code/implementation.md)
   * [Style Guide](development/writing-code/style-guide.md)
+* [Risk Assessment](development/risk-assessment.md)
 * [Testing](development/testing/README.md)
   * [Requirement Tests](development/testing/requirement-tests.md)
   * [System Level Test](development/testing/system-level-test.md)
