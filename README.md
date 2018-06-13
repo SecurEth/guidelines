@@ -3,7 +3,7 @@
 This repository is used for the development of standards and methodologies formalizing
 security-conscious analysis and design of Ethereum smart contracts.
 
-Website: https://secureth.org/guidelines/
+Website: https://guidelines.secureth.org/
 
 ---
 
