@@ -50,3 +50,4 @@
 * [Qualifying Tools](tools/qualifying-tools.md)
 * [Existing Tools](tools/existing-tools.md)
 
+* [Contributing](contributing.md)
