@@ -19,6 +19,7 @@
 * [Testing](development/testing/README.md)
   * [Requirement Tests](development/testing/requirement-tests.md)
   * [System Level Test](development/testing/system-level-test.md)
+* [Change Management](development/change-management.md)
 
 ## Deployment
 
@@ -39,7 +40,6 @@
 
 ## Public Release
 
-* [Change Management](public-release/change-management.md)
 * [Deployment Review](public-release/deployment-review.md)
 * [Incident Response](public-release/incident-response.md)
 
