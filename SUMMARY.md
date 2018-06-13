@@ -13,7 +13,6 @@
 
 * [Starting Development](development/starting-development.md)
 * [Software Requirements](development/software-requirements.md)
-* [Risk Assessment](development/risk-assessment.md)
 * [Testing](development/testing.md)
 * [Managing Changes](development/managing-changes.md)
 
