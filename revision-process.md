@@ -1,4 +1,4 @@
-# Top Level Guideline Approval
+# Revision Process
 
 Before work begins on a new guideline or a modification on an existing guideline,
 a concept document is developed and placed in the guideline repository of the SecurEth GitHub.
