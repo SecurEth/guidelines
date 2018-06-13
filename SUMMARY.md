@@ -22,7 +22,6 @@
 
 * [Deploying Your Project](deployment/deploying-your-project.md)
 * [Deployment Plan](deployment/deployment-plan.md)
-* [Deployment Procedures](deployment/deployment-procedures.md)
 * [Mitigation Plan](deployment/mitigation-plan.md)
 
 ## Security Audit
