@@ -51,6 +51,8 @@
 
 ## Tools
 
+* [Tools for Secure Design](tools/tools-for-secure-design.md)
 * [Creating Tools](tools/creating-tools.md)
+* [Qualifying Tools](tools/qualifying-tools.md)
 * [Existing Tools](tools/existing-tools.md)
 
