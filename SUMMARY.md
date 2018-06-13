@@ -19,7 +19,7 @@
 * [Testing](development/testing/README.md)
   * [Requirement Tests](development/testing/requirement-tests.md)
   * [System Level Test](development/testing/system-level-test.md)
-* [Change Management](development/change-management.md)
+* [Managing Changes](development/change-management.md)
 
 ## Deployment
 
