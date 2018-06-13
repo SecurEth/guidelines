@@ -17,7 +17,7 @@
   * System Level Test
   
 ### Preparing for an Audit
-* Traceability
+* [Traceability](audit-prep/traceability.md)
   * Requirements to Code
   * Requirements to Tests
 * Peer Reviews
