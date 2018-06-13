@@ -46,9 +46,9 @@ If your Application uses hardware such as an Internet of Things device, this is 
 
 ## Examples
 
-[Example 1 - Tiny DNS](https://docs.google.com/document/d/1X8hG5HNE1kDXEWcDRFUCiBHPAan475tQZTbcntVG9qo/edit#bookmark=id.wzp32hp88xte)
+[Example 1 - Tiny DNS](example1-tinyDNS.md)
 
-[Example 2 - CryptoKitties](https://docs.google.com/document/d/13UdNMJJvvMjQ5ZdWO6a83NcIeOEd10eg3CD6Ghma6AE/edit#bookmark=id.2l0j9l1dzntf)
+[Example 2 - CryptoKitties](cryptoKitties-system-description-document.md)
 
 ## Template
 
