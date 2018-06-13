@@ -14,6 +14,7 @@
 * [Starting Development](development/starting-development.md)
 * [Software Requirements](development/software-requirements.md)
 * [Testing](development/testing.md)
+* [Traceability](development/traceability.md)
 * [Managing Changes](development/managing-changes.md)
 
 ## Deployment
@@ -26,7 +27,6 @@
 ## Security Audit
 
 * [Preparing for an Audit](security-audit/preparing-for-an-audit.md)
-* [Traceability](security-audit/traceability.md)
 * [Peer Reviews](security-audit/peer-reviews.md)
 * [Test Results](security-audit/test-results/README.md)
   * [Coverage](security-audit/test-results/coverage.md)
