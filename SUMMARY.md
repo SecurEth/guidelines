@@ -36,7 +36,7 @@
 
 ## Public Release
 
-* [Releasing Your Project](public-release/releasing-your-project.md)
+* [Maintaining Your Project](public-release/releasing-your-project.md)
 * [Deployment Review](public-release/deployment-review.md)
 * [Incident Response](public-release/incident-response.md)
 
