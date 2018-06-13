@@ -4,11 +4,11 @@
 
 ## Project Planning
 
-* [Planning a New Project](planning-a-project/planning-a-new-project.md)
-* [System Description](planning-a-project/system-description.md)
-* [System Requirements](planning-a-project/system-requirements.md)
-* [Development Plan](planning-a-project/development-plan.md)
-* [Initial Audit](planning-a-project/initial-audit.md)
+* [Planning a New Project](project-planning/planning-a-new-project.md)
+* [System Description](project-planning/system-description.md)
+* [System Requirements](project-planning/system-requirements.md)
+* [Development Plan](project-planning/development-plan.md)
+* [Initial Audit](project-planning/initial-audit.md)
 
 ## Development
 
