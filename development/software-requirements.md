@@ -42,7 +42,7 @@ To review meeting the reviewer’s and the moderator go through each observation
 
 After the meeting the author makes his changes in their reviews in order to clear the actions. The actions are cleared by the moderator. The requirement review is declared closed when all the actions have been closed.
 
-### Example ements Checklist
+### Example Requirements Checklist
 
 [https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists](https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists)
 
