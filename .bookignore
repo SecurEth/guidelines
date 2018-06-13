@@ -1,5 +1,5 @@
 # Ignore github config files
-.github/
+.github/*
 
 # Ignore Repo readme
 README.md
