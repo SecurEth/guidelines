@@ -44,10 +44,12 @@ Any information that would give additional relevant information to the auditor s
 If your Application uses hardware such as an Internet of Things device, this is the place to describe it.
 If the device will interact with the Blockchain then its code will have its own set of requirements.
 ## Examples
-Example 1 - Tiny DNS
-Example 2 - CryptoKitties
+[Example 1 - Tiny DNS](example1-tinyDNS.md)
+
+[Example 2 - CryptoKitties](cryptoKitties-system-description-document.md)
 ## Template
 https://github.com/SecurEth/Project-Template/blob/master/.audit/01-System-Description.md
+
 What is the top level of your System/Application/Product?
 What does the User see and do with the Application.
 Describe any tokens involved in the system, including value and  
