@@ -24,7 +24,7 @@
 
 * [Deployment Plan](deployment/deployment-plan.md)
 * [Deployment Procedures](deployment/deployment-procedures.md)
-* [Incident Response Plan](deployment/incident-response-plan.md)
+* [Mitigation Plan](deployment/incident-response-plan.md)
 
 ## Preparing for an Audit
 

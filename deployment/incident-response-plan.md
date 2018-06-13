@@ -1,4 +1,4 @@
-# Incident Response Plan
+# Mitigation Plan
 
 
 
