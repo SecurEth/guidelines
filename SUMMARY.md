@@ -49,4 +49,6 @@
 * [Qualifying Tools](tools/qualifying-tools.md)
 * [Existing Tools](tools/existing-tools.md)
 
-* [Contributing](contributing.md)
+## Contributing
+
+* [Revision Process](revision-process.md)
