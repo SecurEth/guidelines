@@ -51,4 +51,5 @@
 
 ## Contributing
 
-* [Revision Process](revision-process.md)
+* [Revision Process](contributing/revision-process.md)
+

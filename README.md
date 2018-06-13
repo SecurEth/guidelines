@@ -20,5 +20,5 @@ The Guidelines are constantly evolving with expert feedback. All suggestions mad
 
 \[Something about style guide and the editorial/PR process\]
 
-For more information, see [contributing](./#contributing).
+For more information, see [contributing](contributing/revision-process.md).
 
