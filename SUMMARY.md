@@ -29,16 +29,16 @@
 
 ## Security Audit
 
-* [Traceability](preparing-for-an-audit/traceability/README.md)
-  * [Requirements to Code](preparing-for-an-audit/traceability/requirements-to-code.md)
-  * [Requirements to Tests](preparing-for-an-audit/traceability/requirements-to-tests.md)
-* [Peer Reviews](preparing-for-an-audit/peer-reviews.md)
-* [Test Results](preparing-for-an-audit/test-results/README.md)
-  * [Coverage](preparing-for-an-audit/test-results/coverage.md)
-  * [Tool Reports](preparing-for-an-audit/test-results/tool-reports.md)
-* [Audit Prep Report](preparing-for-an-audit/audit-prep-report.md)
-* [Audit Revisions](preparing-for-an-audit/audit-revisions.md)
-* [Final Report](preparing-for-an-audit/final-report.md)
+* [Traceability](security-audit/traceability/README.md)
+  * [Requirements to Code](security-audit/traceability/requirements-to-code.md)
+  * [Requirements to Tests](security-audit/traceability/requirements-to-tests.md)
+* [Peer Reviews](security-audit/peer-reviews.md)
+* [Test Results](security-audit/test-results/README.md)
+  * [Coverage](security-audit/test-results/coverage.md)
+  * [Tool Reports](security-audit/test-results/tool-reports.md)
+* [Audit Prep Report](security-audit/audit-prep-report.md)
+* [Audit Revisions](security-audit/audit-revisions.md)
+* [Final Report](security-audit/final-report.md)
 
 ## Public Release
 
