@@ -1,4 +1,4 @@
-# Elements of a Complete Process
+# Sumary (this doesn't do anything lol)
 
 ### Planning a Project
 * [System Description](planning/system-description.md)
@@ -16,6 +16,11 @@
   * Requirement Tests
   * System Level Test
   
+### Deployment
+* Deployment Plan
+* Deployment Procedures
+* Incident Response Plan
+  
 ### Preparing for an Audit
 * [Traceability](audit-prep/traceability.md)
   * Requirements to Code
@@ -29,12 +34,10 @@
   * Tool Reports
 * Audit Prep Report
 
-### Releasing a Project
-* Incident Response
-
-### Managing a Product
-* Changes
+### Public Release
+* Change Management
 * Deployment Review
+* Incident Response
 
 ### Tools
 * Creating Tools
