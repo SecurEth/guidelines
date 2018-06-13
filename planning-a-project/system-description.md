@@ -47,18 +47,14 @@ If your Application uses hardware such as an Internet of Things device, this is 
 ## Examples
 
 Example 1 - Tiny DNS
-
 {% include "./example1-tinyDNS.md" %}
 
 Example 2 - CryptoKitties
-
 {% include "./cryptoKitties-system-description-document.md" %}
 
 ## Template
 
-[https://github.com/SecurEth/Project-Template/blob/master/.audit/01-System-Description.md](https://github.com/SecurEth/Project-Template/blob/master/.audit/01-System-Description.md)  
-  
-
+{% include "https://github.com/SecurEth/Project-Template/blob/master/.audit/01-System-Description.md" %}
 
 What is the top level of your System/Application/Product?
 
