@@ -1,15 +1,15 @@
 ---
 layout: guideline
 status: draft
-title: "Development Guidelines"
 ---
+# Development Guidelines
 
-# Process
+## Process
 Please review [process](process) for an overview of the suggested process for design.
 
-# Toolsets
+## Toolsets
 Please review [toolsets](toolsets) for an overview of the suggested process for development
 of tooling that touches security-critical code.
 
-# Traceability
+## Traceability
 All about equirements [traceability](traceability)

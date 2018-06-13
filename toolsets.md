@@ -1,8 +1,9 @@
 ---
 layout: guideline
 status: draft
-title: "Creating Toolsets"
 ---
+
+# Creating Toolsets
 
 As processes become well-defined, tools can be created to automate, augment, or otherwise aide
 developers in generating, analyzing, deploying, simulating, and testing smart contract code.
@@ -17,7 +18,7 @@ can incorrectly report a false negative which would lead to an incorrect determi
 of the system. This impact analysis needs to be formalized for a toolset prior to use on productionized code,
 which includes some assurance that the underlying functionality is also properly verified enough to trust.
 
-# Toolset Qualification
+## Toolset Qualification
 A set of requirements should be developed, derieved from a set of goals underpinning the tool,
 and proper traceability of those requirements to relevant test cases must be shown. Some level of formal
 analysis should be performed to ensure that these requirements properly implement the goals of the tool,
