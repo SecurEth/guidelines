@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](index.md)
+* [Introduction](README.md)
+* [Introduction](introduction.md)
 
 ## Project Planning
 
