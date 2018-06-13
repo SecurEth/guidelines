@@ -2,8 +2,9 @@
 
 * [Introduction](index.md)
 
-## Planning a Project
+## Project Planning
 
+* [Planning a New Project](planning-a-project/planning-a-new-project.md)
 * [System Description](planning-a-project/system-description.md)
 * [System Requirements](planning-a-project/system-requirements.md)
 * [Development Plan](planning-a-project/development-plan.md)
@@ -11,6 +12,7 @@
 
 ## Development
 
+* [Starting Development](development/starting-development.md)
 * [Software Requirements](development/software-requirements.md)
 * [Writing Code](development/writing-code/README.md)
   * [Architecture](development/writing-code/architecture.md)
@@ -23,12 +25,14 @@
 
 ## Deployment
 
+* [Deploying Your Project](deployment/deploying-your-project.md)
 * [Deployment Plan](deployment/deployment-plan.md)
 * [Deployment Procedures](deployment/deployment-procedures.md)
 * [Mitigation Plan](deployment/mitigation-plan.md)
 
 ## Security Audit
 
+* [Preparing for an Audit](security-audit/preparing-for-an-audit.md)
 * [Traceability](security-audit/traceability/README.md)
   * [Requirements to Code](security-audit/traceability/requirements-to-code.md)
   * [Requirements to Tests](security-audit/traceability/requirements-to-tests.md)
