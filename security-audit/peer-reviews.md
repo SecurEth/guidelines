@@ -14,7 +14,7 @@ There are many things you can do in a peer review. The point is to bring differe
 
 ### Requirements Traceability Analysis
 
-Assuming the goals match the requirements derived from your system description, you can analyze completeness of your implementation using your requirements [traceability](traceability/) matrix. This allows you to determine not only is there a 1-to-1 mapping of requirements to code, but that the code completely implements the requirements, and that no additional features have been added without requirements. This means your implementation of the requirements is both sufficient and complete.
+Assuming the goals match the requirements derived from your system description, you can analyze completeness of your implementation using your requirements [traceability](traceability.md) matrix. This allows you to determine not only is there a 1-to-1 mapping of requirements to code, but that the code completely implements the requirements, and that no additional features have been added without requirements. This means your implementation of the requirements is both sufficient and complete.
 
 ### Test Case Traceability Analysis
 

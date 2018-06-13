@@ -6,7 +6,6 @@
 
 * [Planning a New Project](project-planning/planning-a-new-project.md)
 * [System Description](project-planning/system-description.md)
-* [System Requirements](project-planning/system-requirements.md)
 * [Development Plan](project-planning/development-plan.md)
 * [Initial Audit](project-planning/initial-audit.md)
 
@@ -14,14 +13,8 @@
 
 * [Starting Development](development/starting-development.md)
 * [Software Requirements](development/software-requirements.md)
-* [Writing Code](development/writing-code/README.md)
-  * [Architecture](development/writing-code/architecture.md)
-  * [Implementation](development/writing-code/implementation.md)
-  * [Style Guide](development/writing-code/style-guide.md)
 * [Risk Assessment](development/risk-assessment.md)
-* [Testing](development/testing/README.md)
-  * [Requirement Tests](development/testing/requirement-tests.md)
-  * [System Level Test](development/testing/system-level-test.md)
+* [Testing](development/testing.md)
 * [Managing Changes](development/managing-changes.md)
 
 ## Deployment
@@ -34,9 +27,7 @@
 ## Security Audit
 
 * [Preparing for an Audit](security-audit/preparing-for-an-audit.md)
-* [Traceability](security-audit/traceability/README.md)
-  * [Requirements to Code](security-audit/traceability/requirements-to-code.md)
-  * [Requirements to Tests](security-audit/traceability/requirements-to-tests.md)
+* [Traceability](security-audit/traceability.md)
 * [Peer Reviews](security-audit/peer-reviews.md)
 * [Test Results](security-audit/test-results/README.md)
   * [Coverage](security-audit/test-results/coverage.md)
