@@ -1,12 +1,3 @@
-# Smart Contract Development Guidelines
-
-This repository is used for the development of standards and methodologies formalizing
-security-conscious analysis and design of Ethereum smart contracts.
-
-Website: https://guidelines.secureth.org/
-
----
-
 # Top Level Guideline Approval
 
 Before work begins on a new guideline or a modification on an existing guideline,
