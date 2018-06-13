@@ -27,7 +27,7 @@
 * [Deployment Procedures](deployment/deployment-procedures.md)
 * [Mitigation Plan](deployment/mitigation-plan.md)
 
-## Preparing for an Audit
+## Security Audit
 
 * [Traceability](preparing-for-an-audit/traceability/README.md)
   * [Requirements to Code](preparing-for-an-audit/traceability/requirements-to-code.md)
@@ -37,6 +37,8 @@
   * [Coverage](preparing-for-an-audit/test-results/coverage.md)
   * [Tool Reports](preparing-for-an-audit/test-results/tool-reports.md)
 * [Audit Prep Report](preparing-for-an-audit/audit-prep-report.md)
+* [Audit Revisions](preparing-for-an-audit/audit-revisions.md)
+* [Final Report](preparing-for-an-audit/final-report.md)
 
 ## Public Release
 
