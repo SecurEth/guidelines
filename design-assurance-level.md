@@ -3,7 +3,7 @@ layout: guideline
 status: draft
 ---
 
-# Design Assurance Level
+# Design Assurance Levels
 
 The *Design Assurance Level* (DAL) is the level of rigor needed to ensure comprehensive
 verification of a smart contract's method to a given level of risk.
@@ -25,7 +25,9 @@ the DAL levels that mitigate those levels of risk with proper verification are:
 | Low       |  D  |
 | Safe/Info |  E  |
 
-## DAL A
+## Level Descriptions
+
+### DAL A
 DAL A is the highest level of validation required.
 Methods that require DAL A design are given the highest considerations from multiple engineers
 to ensure no critical bugs exist. Typically this requires representations at all levels of testing
@@ -34,19 +36,19 @@ to ensure to a high level of confidence that all conditional logic is tested.
 
 All DAL A methods should be traceable all the way to the system-level design goals of the system.
 
-## DAL B
+### DAL B
 DAL B should be handled similarly to DAL A, but a slight relaxing of the coverage level can be used.
 
 All DAL B methods should be traceable all the way to the system-level design goals of the system.
 
-## DAL C
+### DAL C
 DAL C should have representations in at least the functional and integration levels of testing.
 Coverage is still important, but statement-level coverage is usually sufficient.
 
 All DAL C methods should be traceable at least to requirements derived from the
 system-level design goals of the system.
 
-## DAL D
+### DAL D
 DAL D should have some level of functional testing and integration testing,
 but the Low risk here means coverage is of marginal importance.
 In practice, statement-level coverage is useful, but not required.
@@ -54,15 +56,15 @@ In practice, statement-level coverage is useful, but not required.
 DAL D methods may or may not be traceable to system-level design goals.
 These could include "emergency stop" mechanisms or other methods of live fault mitigation.
 
-## DAL E
+### DAL E
 DAL E, having essentially no risk to the system, means the lowest level of testing rigor is okay.
 
 DAL E methods do not need to be traceable to any system-level design goals,
 and can be debugging conviences requested by the designer.
 
-# Example contract
+## Example contract
 
-## Risk Assesment Matrix
+### Risk Assesment Matrix
 
 |     Method Name     | Public | Mutating | External Calls | Handles Assets |   Risk   |
 | ------------------- | :----: | :------: | :------------: | :------------: | :------: |
