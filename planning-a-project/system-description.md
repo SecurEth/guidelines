@@ -46,9 +46,13 @@ If your Application uses hardware such as an Internet of Things device, this is 
 
 ## Examples
 
-[Example 1 - Tiny DNS](https://guidelines.secureth.org/guidelines/planning-a-project/example1-tinyDNS.md)
+Example 1 - Tiny DNS
 
-[Example 2 - CryptoKitties](https://github.com/SecurEth/guidelines/blob/master/planning-a-project/cryptoKitties-system-description-document.md)
+{% include "./example1-tinyDNS.md" %}
+
+Example 2 - CryptoKitties
+
+{% include "./cryptoKitties-system-description-document.md" %}
 
 ## Template
 
