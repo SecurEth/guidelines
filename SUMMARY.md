@@ -1,6 +1,6 @@
 # Elements of a Complete Process
 
-### [Planning a Project](planning/README.md)
+### Planning a Project
 * [System Description](planning/system-description.md)
 * System Requirements
 * Development Plan
