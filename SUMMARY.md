@@ -3,6 +3,8 @@
 ### Planning a Project
 * System Description
 * System Requirements
+* Development Plan
+* Initial Audit
 
 ### Development
 * Software Requirements
@@ -13,17 +15,15 @@
 * Testing
   * Requirement Tests
   * System Level Test
+  
+### Preparing for an Audit
+* Traceability
+  * Requirements to Code
+  * Requirements to Tests
 * Peer Reviews
   * Requirement Reviews
   * Code Reviews
   * Test Reviews
-  
-### Preparing for an Audit
-* Initial Audit
-* Development Plan
-* Traceability
-  * Requirements to Code
-  * Requirements to Tests
 * Test Results
   * Coverage
   * Tool Reports
