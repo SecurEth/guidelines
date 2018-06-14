@@ -28,7 +28,7 @@ If you have run any [testing tools](../tools/existing-tools.md) on your code, th
 
 ### Test Results
 
-This section gives the location in the repository for your [test results](test-results/). It should include a README that defines exactly how to run the test suite. This will include the results of [code coverage](test-results/coverage.md), and any explanations that are needed to explain the existence of any dead code. Any explanations the developer wishes to give to the auditor about any of the test failures should be listed or referenced here.
+This section gives the location in the repository for your [test results](test-results/). It should include a README that defines exactly how to run the test suite. This will include the results of [code coverage](), and any explanations that are needed to explain the existence of any dead code. Any explanations the developer wishes to give to the auditor about any of the test failures should be listed or referenced here.
 
 ### Bug Bounty
 

@@ -29,7 +29,6 @@
 * [Preparing for an Audit](security-audit/preparing-for-an-audit.md)
 * [Audit Prep Report](security-audit/audit-prep-report.md)
 * [Test Results](security-audit/test-results/README.md)
-  * [Coverage](security-audit/test-results/coverage.md)
   * [Tool Reports](security-audit/test-results/tool-reports.md)
 * [Audit Revisions](security-audit/audit-revisions.md)
 * [Final Report](security-audit/final-report.md)
