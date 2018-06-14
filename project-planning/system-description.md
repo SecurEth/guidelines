@@ -1,6 +1,11 @@
-# System Description
+---
+description: >-
+  The System Description Document (SDD) is a top level informal document that
+  describes what the system will do. It should describe the “System” or
+  “Product” from a users’ perspective. This is the first
+---
 
-The System Description Document \(SDD\) is a top level informal document that describes what the system will do. It should describe the “System” or “Product” from a users’ perspective. This is the first document that any auditor or contractor would read. From it they should understand what the system does.
+# System Description
 
 ### Why do a System Description Document?
 
