@@ -1,10 +1,16 @@
 # Starting Development
 
-## Our Process
+## The Process
 
-The authors worked in aerospace before blockchain so this process is inspired by the aerospace  software development standard \(RTCA DO-178\).  Aerospace software has a muture process with a stupendous safety record that we felt could be applied with modifications on Ethereum smart contracts.
+Creating plans like the [Development Plan](../project-planning/development-plan.md), getting feedback from external sources through the [Initial Audit](../project-planning/initial-audit.md) and conducting multiple layers of testing by multiple people is the only surefire way to ensure you fully verify your system.
 
-### 
+### Requirements
+
+### Design
+
+### Testing
+
+### Revisions
 
 ### 
 
