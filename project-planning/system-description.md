@@ -6,7 +6,7 @@ The System Description Document \(SDD\) is a top level informal document that de
 
 ## Why do a System Description Document?
 
-This is the first document that any auditor or contractor would read. From it they should understand what the intent of the overall system does. Before an auditor looks at your smart contracts, this document will give them perspective.
+This is the first document that any auditor or contractor would read. From it they should understand what the system does. Before an auditor looks at your smart contracts, this document will give them perspective.
 
 It can include the web aspects in addition to the smart contracts. It should include the business aspects of the project and a description of any tokens, their uses and life cycle. It can include a list of the Goals for the smart contracts.
 
