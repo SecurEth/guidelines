@@ -8,7 +8,7 @@ An Audit Prep Report is the summary report of the package presented to the audit
 
 This report summarizes all the important information the auditor needs to start their audit that is not documented elsewhere.
 
-## How do I make an Audit Prep Report?
+## What inside an Audit Prep Report?
 
 ### Audit Goals
 
