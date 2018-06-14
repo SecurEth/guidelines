@@ -49,5 +49,5 @@
 
 ## Contributing
 
-* [Revision Process](contributing/revision-process.md)
+* [Guideline Revision Process](contributing/revision-process.md)
 
