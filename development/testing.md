@@ -13,7 +13,7 @@ If you've written software, you've probably done testing before, and you could p
 
 ### Software Verification
 
-### Formal Verification Tools
+"Building the product right" is more along the lines of what everyone typically thinks of when someone mentions Testing.
 
 ## Why Do All This Testing?
 
