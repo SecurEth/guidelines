@@ -2,7 +2,7 @@
 
 ## System Description Document {#docs-internal-guid-2dd24c90-fab9-37aa-c3bd-ca661d436fac}
 
-The System Description Document \(SDD\) is a top level informal document that describes what the system will do. It should describe the “System” or “Product” from a users’ perspective. Think of it as the “spirit of the application”, and it could be as short as a single paragraph.
+The System Description Document \(SDD\) is a top level informal document that describes what the system will do. It should describe the “System” or “Product” from a users’ perspective. Think of it as the “spirit of the application”.
 
 ## Why do a System Description Document?
 
