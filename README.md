@@ -12,7 +12,7 @@ Each article is designed to read on its own, with a consistent style \(Who, What
 
 ## Giving Feedback
 
-We encourage feedback. This is just getting started and we want to be sure we are meeting peoples needs.  At a minimum, please hit one of the happy/sad faces.  
+We encourage feedback. This is just getting started and we want to be sure we are meeting peoples needs. At a minimum, please hit one of the happy/sad faces.  
 
 For a more detailed response, please report an [issue ](https://github.com/SecurEth/guidelines/issues/new)on our GitHub.
 
