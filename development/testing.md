@@ -15,12 +15,6 @@ If you've written software, you've probably done testing before, and you could p
 
 ### Formal Verification Tools
 
-#### Semantic Analysis
-
-#### Symbolic Execution
-
-#### Bounded Model Checking
-
 ## Why Do All This Testing?
 
 Think of your testing strategy as a block of Swiss cheese. For reference, here is a block of Swiss cheese:
