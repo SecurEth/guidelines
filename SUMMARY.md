@@ -28,8 +28,7 @@
 
 * [Preparing for an Audit](security-audit/preparing-for-an-audit.md)
 * [Audit Prep Report](security-audit/audit-prep-report.md)
-* [Test Results](security-audit/test-results/README.md)
-  * [Tool Reports](security-audit/test-results/tool-reports.md)
+* [Test Results](security-audit/test-results.md)
 * [Audit Revisions](security-audit/audit-revisions.md)
 * [Final Report](security-audit/final-report.md)
 
@@ -44,6 +43,7 @@
 * [Tools for Secure Design](tools/tools-for-secure-design.md)
 * [Creating Tools](tools/creating-tools.md)
 * [Qualifying Tools](tools/qualifying-tools.md)
+* [Tool Reports](tools/tool-reports.md)
 * [Existing Tools](tools/existing-tools.md)
 
 ## Contributing

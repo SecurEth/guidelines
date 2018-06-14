@@ -24,11 +24,11 @@ Remember to clean up your repository and organize the folders with clear names. 
 
 ### Tool and Code Review Results
 
-If you have run any [testing tools](../tools/existing-tools.md) on your code, this section should point to the results of those tools, as well as the scripts and options used when the tools were run. You should also provide commentary on your interpretation of these results and a discussion of any false positives you encountered in a [tool report](test-results/tool-reports.md) specific to each tool that was run.
+If you have run any [testing tools](../tools/existing-tools.md) on your code, this section should point to the results of those tools, as well as the scripts and options used when the tools were run. You should also provide commentary on your interpretation of these results and a discussion of any false positives you encountered in a [tool report](../tools/tool-reports.md) specific to each tool that was run.
 
 ### Test Results
 
-This section gives the location in the repository for your [test results](test-results/). It should include a README that defines exactly how to run the test suite. This will include the results of [code coverage](), and any explanations that are needed to explain the existence of any dead code. Any explanations the developer wishes to give to the auditor about any of the test failures should be listed or referenced here.
+This section gives the location in the repository for your [test results](test-results.md). It should include a README that defines exactly how to run the test suite. This will include the results of [code coverage](), and any explanations that are needed to explain the existence of any dead code. Any explanations the developer wishes to give to the auditor about any of the test failures should be listed or referenced here.
 
 ### Bug Bounty
 
