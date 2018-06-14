@@ -29,9 +29,9 @@
 ## Network Release
 
 * [Maintaining Your Project](public-release/releasing-your-project.md)
-* [Incident Response](public-release/incident-response.md)
 * [Deployment Plan](public-release/deployment-plan.md)
 * [Mitigation Plan](public-release/mitigation-plan.md)
+* [Incident Response](public-release/incident-response.md)
 
 ## Tools
 
