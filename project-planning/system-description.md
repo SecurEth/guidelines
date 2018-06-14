@@ -2,15 +2,11 @@
 
 ## System Description Document {#docs-internal-guid-2dd24c90-fab9-37aa-c3bd-ca661d436fac}
 
-The System Description Document \(SDD\) is a top level informal document that describes what the system will do. It should describe the “System” or “Product” from a users’ perspective. Think of it as the “spirit of the application”.
+The System Description Document \(SDD\) is a top level informal document that describes what the system will do. It should describe the “System” or “Product” from a users’ perspective. This is the first document that any auditor or contractor would read. From it they should understand what the system does.
 
 ## Why do a System Description Document?
 
-This is the first document that any auditor or contractor would read. From it they should understand what the system does. Before an auditor looks at your smart contracts, this document will give them perspective.
-
-It can include the web aspects in addition to the smart contracts. It should include the business aspects of the project and a description of any tokens, their uses and life cycle. It can include a list of the Goals for the smart contracts.
-
-It can be an excerpt of the white paper but should be an independent document. This is the first document any outside auditor will read because it gives them context.
+This is the first document any outside auditor will read. It gives them context and perspective.
 
 ### Who reads the System Description Document?
 
@@ -18,17 +14,17 @@ Any third party that will be working with the smart contracts should read the SD
 
 ## What is Included in the SDD?
 
-### Informal Document
+The document does not formally trace to any requirements or tests. This means the document can be in any format. Think of it as the “spirit of the application”.
 
-This is an informal document with respect to the guidelines. There are no requirements as to the format. The document does not formally trace to any requirements or tests. This means the document can be in any format. It should be a separate document from the white paper and be updated such that it is current with the smart contract application.
+It can include web as well as smart contracts aspects of the application. It should include the business aspects of the project and a description of any tokens, their uses and life cycle. It can include a list of the goals for the smart contracts. It can be an excerpt of the white paper but should be an independent document.
 
 ### Description from the Users Point of View
 
-The SDD should describe what the application does from the user’s point of view, what the user does and why. Describe the users business incentives for using the application. Ideally it would have a full users instruction manual but that is not required.
+The SDD should describe what the user does and why. Describe their business incentives for using the application. Ideally it would have a users instruction manual and a set of user stories but that is not required.
 
 ### Tokens
 
-This is the only document where you can describe the uses and lifecycle of a token from a business perspective.It is important for an auditor to know which tokens will hold a high value.
+This is the only document where you can describe the uses and lifecycle of a token from a business perspective. It is important for an auditor to know which tokens will hold a high value.
 
 ### Diagrams
 
@@ -36,7 +32,7 @@ This is a good place to include any relevant flow diagrams explaining your syste
 
 ### Web Aspect of the Application
 
-While this section can simply describe a web application, consider mentioning other aspects important to the smart contract. Is there bounds checking done on the variables passed to this smart contract. How many instances can be called in parallel? Are there any aspects in the design of the web application that will affect the smart contract? Any information that would give additional relevant information to the auditor should be included.
+While this section can simply describe a web application, consider mentioning other aspects important to the smart contract. How many instances can be called in parallel? Are there any aspects in the design of the web application that will affect the smart contract \(e.g. the owner is assumed to use it only in a certain way\)? State any relevant assumptions.
 
 ### Hardware
 
@@ -44,15 +40,15 @@ If your Application uses hardware such as an Internet of Things device, this is 
 
 ## Examples
 
-Example 1 - Tiny DNS
+[Example 1 - Tiny DNS](https://github.com/SecurEth/guidelines/blob/master/project-planning/example1-tinyDNS.md)
 
-Example 2 - CryptoKitties
+[Example 2 - CryptoKitties](https://github.com/SecurEth/guidelines/blob/master/project-planning/cryptoKitties-system-description-document.md)
 
 ## Template
 
 What is the top level of your System/Application/Product?
 
-What does the User see and do with the Application.
+What does the User see and do with the Application?
 
-Describe any tokens involved in the system, including value and
+Describe any tokens involved in the system, including value and flow.
 
