@@ -14,7 +14,7 @@ It can be an excerpt of the white paper but should be an independent document. T
 
 ### Who reads the System Description Document?
 
-Any third party that will be involved in the smart contracts of should read the SDD first. This will include auditors, but could also include new contractors.
+Any third party that will be working with the smart contracts should read the SDD first. This will include auditors, but could also include new contractors.
 
 ## What is Included in the SDD?
 
