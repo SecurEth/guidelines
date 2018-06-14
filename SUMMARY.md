@@ -18,12 +18,6 @@
 * [Managing Changes](development/managing-changes.md)
 * [Peer Reviews](development/peer-reviews.md)
 
-## Deployment
-
-* [Deploying Your Project](deployment/deploying-your-project.md)
-* [Deployment Plan](deployment/deployment-plan.md)
-* [Mitigation Plan](deployment/mitigation-plan.md)
-
 ## Security Audit
 
 * [Preparing for an Audit](security-audit/preparing-for-an-audit.md)
@@ -32,11 +26,12 @@
 * [Audit Revisions](security-audit/audit-revisions.md)
 * [Final Report](security-audit/final-report.md)
 
-## Public Release
+## Network Release
 
 * [Maintaining Your Project](public-release/releasing-your-project.md)
-* [Deployment Review](public-release/deployment-review.md)
 * [Incident Response](public-release/incident-response.md)
+* [Deployment Plan](public-release/deployment-plan.md)
+* [Mitigation Plan](public-release/mitigation-plan.md)
 
 ## Tools
 

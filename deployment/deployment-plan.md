@@ -1,6 +1,0 @@
-# Deployment Plan
-
-### Schedule
-
-### Procedures
-
