@@ -1,6 +1,11 @@
-# Development Plan
+---
+description: >-
+  The Development Plan says what you want to do before you do it. You can
+  present this plan, with the System Description to an auditor or for an Initial
+  Audit. The idea is to get critical feedback befor
+---
 
-The Development Plan says what you want to do before you do it. You can present this plan, with the [System Description](system-description.md) to an auditor or for an [Initial Audit](initial-audit.md). The idea is to get critical feedback before the main work begins.
+# Development Plan
 
 ## Why do a Development Plan?
 
