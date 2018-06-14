@@ -8,17 +8,15 @@ The Guidelines are constantly evolving with expert feedback. All suggestions mad
 
 ## Reading the Guidelines
 
-\[Stuff here about different formatting things\]
+Each article is designed to read on its own, with a consistent style \(Who, What, Why, etc\).   
 
 ## Giving Feedback
 
-\[Talk about GItHub Issues and the happy/sad face at the bottom of every page\]
+We encourage feedback. This is just getting started and we want to be sure we are meeting peoples needs.  At a minimum, please hit one of the happy/sad faces.  
 
-\[Talk about discussion forum\]
+For a more detailed response, please report an [issue ](https://github.com/SecurEth/guidelines/issues/new)on our GitHub.
 
 ## Contributing
 
-\[Something about style guide and the editorial/PR process\]
-
-For more information, see [contributing](contributing/revision-process.md).
+For the moment, if you wish to contribute, please submit an [issue ](https://github.com/SecurEth/guidelines/issues/new)as above.  We will add a more formal contribution section with a style guide, etc in the near future.
 
