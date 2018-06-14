@@ -4,7 +4,7 @@ The Initial Plan says what you want to do before you do it.  You can present thi
 
 ## Why do a Development Plan?
 
-An Development Plan says from a development perspective, how you are going to develop, test, audit and deploy your smart contracts. With the [System Description](https://docs.google.com/document/d/19iwgv3oZeB0FYL5VRZvVq9i_PIffnZc0NGEFDV3w1v4/edit#bookmark=id.wz81og6mly1y), the Development Plan is all you need for an [initial audit](https://docs.google.com/document/d/196RBRz1ur93czAoBOrdPq7ZgxTudDTpUsiNIL5PBkZw/edit#bookmark=id.kv3w2x7mf27c).  It is a very top level document that shows you have thought through the whole development process.
+An Development Plan says from a development perspective, how you are going to develop, test, audit and deploy your smart contracts. It is a very top level document that shows you have thought through the whole development process.
 
 ## What is included in an Development Plan?
 
