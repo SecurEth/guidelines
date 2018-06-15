@@ -4,7 +4,7 @@ A Development Plan says from a development perspective, how you are going to dev
 
 ## Why do a Development Plan?
 
-The Development Plan says what you want to do before you do it. You can present this plan with the [System Description](system-description.md) to an auditor or for a [Preliminary Audit](preliminary-audit.md). The idea is to get critical feedback.
+The Development Plan says what you want to do before you do it. You can present this plan with the [System Description](system-description.md) to an auditor or for a [Preliminary Audit](preliminary-audit.md). The idea is to get critical feedback before the main work begins..
 
 ## What is included in a Development Plan?
 
