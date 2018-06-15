@@ -10,7 +10,7 @@
 
 * [System Description](project-planning/system-description.md)
 * [Development Plan](project-planning/development-plan.md)
-* [Preliminary Audit](project-planning/initial-audit.md)
+* [Preliminary Audit](project-planning/preliminary-audit.md)
 
 ## Development
 
