@@ -6,15 +6,9 @@ These guidelines are a community resource. They are meant to help guide and info
 
 The Guidelines are constantly evolving with expert feedback. All suggestions made here are managed by expert members of our community, who have experience with the best practices and common pitfalls of secure smart contract development. Their wisdom is meant to help you on your journey
 
-## Planning a New Project
-
-The [Development Plan](project-planning/development-plan.md) and [Initial Audit]() are optional components but quite valuable for new development teams.
-
-If you already have code and your auditor sent you here. Create a [System Description](project-planning/system-description.md), then jump down to [Software Requirements](development/software-requirements.md).
-
 ## Reading the Guidelines
 
-Each article is designed to read on its own, with a consistent style \(Who, What, Why, etc\).   
+Each article is designed to read on its own, with a consistent style \(What, Why, Who, How\).   
 
 ## Giving Feedback
 
@@ -24,5 +18,5 @@ For a more detailed response, please report an [issue ](https://github.com/Secur
 
 ## Contributing
 
-For the moment, if you wish to contribute, please submit an [issue ](https://github.com/SecurEth/guidelines/issues/new)as above.  We will add a more formal contribution section with a style guide, etc in the near future.
+For the moment, if you wish to contribute, please submit an [issue ](https://github.com/SecurEth/guidelines/issues/new)as above.  We will add a more formal [contribution](contributing/guideline-revision-process.md) section with a style guide, etc in the near future.
 
