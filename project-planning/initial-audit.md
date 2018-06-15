@@ -1,9 +1,3 @@
----
-description: >-
-  Initial audit is a video meeting where System Description is presented to the
-  auditor and Development Plan is discussed.
----
-
 # Initial Audit
 
 ## When should an Initial Audit take place {#docs-internal-guid-038fb17c-fb24-a5d8-fdb3-368d9c8b1367}

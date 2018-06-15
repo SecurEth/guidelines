@@ -1,4 +1,4 @@
-# Getting Started
+# Introduction
 
 ## About the Guidelines
 

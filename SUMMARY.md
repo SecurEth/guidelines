@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Introduction](README.md)
+
 ## Introdution
 
-* [Getting Started](README.md)
+* [Getting Started](introdution/getting-started.md)
 
 ## Project Planning
 
@@ -29,10 +31,10 @@
 
 ## Network Release
 
-* [Maintaining Your Project](public-release/releasing-your-project.md)
-* [Deployment Plan](public-release/deployment-plan.md)
-* [Mitigation Plan](public-release/mitigation-plan.md)
-* [Incident Response](public-release/incident-response.md)
+* [Maintaining Your Project](network-release/maintaining-your-project.md)
+* [Deployment Plan](network-release/deployment-plan.md)
+* [Mitigation Plan](network-release/mitigation-plan.md)
+* [Incident Response](network-release/incident-response.md)
 
 ## Tools
 
@@ -44,4 +46,5 @@
 
 ## Contributing
 
-* [Guideline Revision Process](contributing/revision-process.md)
+* [Guideline Revision Process](contributing/guideline-revision-process.md)
+
