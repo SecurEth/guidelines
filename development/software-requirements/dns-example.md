@@ -1,17 +1,15 @@
 # DNS Example
 
-
-
-### Requirements Specification {#docs-internal-guid-9d3cc77f-0456-331f-7125-1385d39651a5}
+## Requirements Specification {#docs-internal-guid-9d3cc77f-0456-331f-7125-1385d39651a5}
 
 \(derived from SDD/Goals\):
 
-1. The DNS contract shall allow any user to register a name that has not already been registered to another owner. \(sha256\[:3\] is c84d\)
-2. The DNS contract shall reject any request to register a name that is already registered to another user. \(sha256\[:3\] is 35a4\)
-3. The DNS contract shall allow the owner of a domain to change the resolved address. \(sha256\[:3\] is e532\)
-4. The DNS contract shall allow anyone to perform a lookup of a registered domain’s resolved address. \(sha256\[:3\] is fffc\)
+1. The DNS contract shall allow any user to register a name that has not already been registered to another owner. \(`sha256[:3]` is c84d\)
+2. The DNS contract shall reject any request to register a name that is already registered to another user. \(`sha256[:3]` is 35a4\)
+3. The DNS contract shall allow the owner of a domain to change the resolved address. \(`sha256[:3]` is e532\)
+4. The DNS contract shall allow anyone to perform a lookup of a registered domain’s resolved address. \(`sha256[:3]` is fffc\)
 
-### Implementation: {#docs-internal-guid-bc5fbce9-0457-3f17-6421-28ed7079afd5}
+## Implementation: {#docs-internal-guid-bc5fbce9-0457-3f17-6421-28ed7079afd5}
 
 {% code-tabs %}
 {% code-tabs-item title="DNS.sol" %}
@@ -20,11 +18,11 @@
 contract DNS {
    // Store the owner of a particular domain
    mapping(string => address) public domainOwner;
-   
+
    // Store the resolution of a particular domain
    /// @req fffc `public` provides access method for domain resolver
    mapping(string => address) public domainResolution;
-   
+
    /** @title setDomainResolution Allows user to set resolution for address
      * @param _domain Domain name as ASCII string
      * @param _resolution Address domain will resolve to
@@ -46,7 +44,7 @@ contract DNS {
         /// @req c84d Keep track of newly registered domain
         domainOwner[_domain] = msg.sender;
      }
-     
+
      /// @req c84d Allow user to set resolution for newly registered domain
      /// @req e532 Allow user to change resolution for a domain they own
      domainResolution[_domain] = _resolution;
@@ -55,3 +53,4 @@ contract DNS {
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
