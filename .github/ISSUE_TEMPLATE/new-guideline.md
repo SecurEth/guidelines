@@ -1,9 +1,6 @@
-If you have a question or concern, please list it here.
-
-If you have a suggestion for a modification to the guideliness via an SEG, please use the template below:
-
-(Don't forget to label your issue "SEG XXX: <Title>"!)
-
+---
+name: New Guideline
+about: Proposal to create a new SecurEth Guideline (SEG)
 ---
 
 ## Preamble
