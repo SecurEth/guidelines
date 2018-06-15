@@ -8,7 +8,7 @@ The Guidelines are constantly evolving with expert feedback. All suggestions mad
 
 ## Planning a New Project
 
-The [Development Plan](project-planning/development-plan.md) and [Initial Audit](project-planning/initial-audit.md) are optional components but quite valuable for new development teams.
+The [Development Plan](project-planning/development-plan.md) and [Initial Audit]() are optional components but quite valuable for new development teams.
 
 If you already have code and your auditor sent you here. Create a [System Description](project-planning/system-description.md), then jump down to [Software Requirements](development/software-requirements.md).
 
