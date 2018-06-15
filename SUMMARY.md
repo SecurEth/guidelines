@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Getting Started](README.md)
+## Introdution
 
----
+* [Getting Started](README.md)
 
 ## Project Planning
 
@@ -45,7 +45,3 @@
 ## Contributing
 
 * [Guideline Revision Process](contributing/revision-process.md)
-
----
-
-* [Getting Started](README.md)
