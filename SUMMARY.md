@@ -14,7 +14,6 @@
 
 ## Development
 
-* [Starting Development](development/starting-development.md)
 * [Software Requirements](development/software-requirements.md)
 * [Testing](development/testing.md)
 * [Traceability](development/traceability.md)
