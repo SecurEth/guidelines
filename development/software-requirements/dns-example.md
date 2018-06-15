@@ -20,7 +20,7 @@ contract DNS {
    mapping(string => address) public domainOwner;
 
    // Store the resolution of a particular domain
-   /// @req fffc `public` provides access method for domain resolver
+   /// @imp fffc `public` provides access method for domain resolver
    mapping(string => address) public domainResolution;
 
    /** @title setDomainResolution Allows user to set resolution for address
@@ -33,20 +33,20 @@ contract DNS {
    )
      public
    {
-     /// @req c84d Check if name has been previously registered
+     /// @imp c84d Check if name has been previously registered
      if (domainOwner[_domain] != 0x0)
      {
-        /// @req 35a4 Reject if domain has been registered to another user
+        /// @imp 35a4 Reject if domain has been registered to another user
         require(domainOwner[_domain] == msg.sender);
      }
      else // domain owner is unset for this domain
      {
-        /// @req c84d Keep track of newly registered domain
+        /// @imp c84d Keep track of newly registered domain
         domainOwner[_domain] = msg.sender;
      }
 
-     /// @req c84d Allow user to set resolution for newly registered domain
-     /// @req e532 Allow user to change resolution for a domain they own
+     /// @imp c84d Allow user to set resolution for newly registered domain
+     /// @imp e532 Allow user to change resolution for a domain they own
      domainResolution[_domain] = _resolution;
    }
 }
