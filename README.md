@@ -8,7 +8,9 @@ The Guidelines are constantly evolving with expert feedback. All suggestions mad
 
 ## Reading the Guidelines
 
-Each article is designed to read on its own, with a consistent style \(What, Why, Who, How\).   
+The Guidelines are meant to aid you in formulating your own software engineering process by giving a complete picture of all the different concerns and expectations in your software projects. Each section of the process has several articles about different topics you should understand during that step of the process. It covers the entire development cycle from planning to production support.
+
+The Guidelines often do not tell you exactly how something should be done, but give you an understanding of what each concept is, why you should do it, who are the major parties involved, and some suggestions on how you can incorporate into your project. There are often multiple suggestions on how to do this, typically because the scale of your project and development team will dictate exactly how much structure you will need to be successful.
 
 ## Giving Feedback
 
