@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Getting Started](README.md)
 
 ## Project Planning
 

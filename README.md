@@ -1,10 +1,16 @@
-# Introduction
+# Getting Started
 
 ## About the Guidelines
 
 These guidelines are a community resource. They are meant to help guide and inform you through your development process and ensure the highest quality results in your smart contract system and your end product.
 
 The Guidelines are constantly evolving with expert feedback. All suggestions made here are managed by expert members of our community, who have experience with the best practices and common pitfalls of secure smart contract development. Their wisdom is meant to help you on your journey
+
+## Planning a New Project
+
+The [Development Plan](project-planning/development-plan.md) and [Initial Audit](project-planning/initial-audit.md) are optional components but quite valuable for new development teams.
+
+If you already have code and your auditor sent you here. Create a [System Description](project-planning/system-description.md), then jump down to [Software Requirements](development/software-requirements.md).
 
 ## Reading the Guidelines
 
