@@ -8,7 +8,7 @@ The Guidelines are constantly evolving with expert feedback. All suggestions mad
 
 ## Planning a New Project
 
-Start with writing a [System Description Document](../project-planning/system-description.md). The [Development Plan](../project-planning/development-plan.md) and [Initial Audit]() are optional components but quite valuable for new development teams.
+Start with writing a [System Description Document](../project-planning/system-description.md). The [Development Plan](../project-planning/development-plan.md) and [Preliminary Audit](../project-planning/preliminary-audit.md) are optional components but quite valuable for new development teams.
 
 ## Auditing Existing Code
 
