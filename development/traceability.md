@@ -30,22 +30,22 @@ Now we start writing software. In my code, I am implementing each of these requi
 
 ```python
 def doX(a: uint256, b: uint256) -> uint256:
-    # @req 1 does X here
+    # @imp 1 does X here
     return a + b
 
 def doSomething():
-    # @req 2 does part of Y here
+    # @imp 2 does part of Y here
     self.state = 0
-    # @req 3 does part of Z here
+    # @imp 3 does part of Z here
     transfer(msg.sender, this.balance)
 
 def doSomethingElse():
-    # @req 2 does the other part of Y here
+    # @imp 2 does the other part of Y here
     self.state += 1
 
 @payable
 def acceptPayment():
-    # @req 3 does the last part of Z here
+    # @imp 3 does the last part of Z here
     assert self.state < 10
 ```
 
@@ -61,15 +61,15 @@ I can do the same thing for testing:
 
 ```python
 def test_X(contract):
-    contract.doX(1, 2)  # @req 1
+    contract.doX(1, 2)  # @test 1
 
 def test_Y(contract):
-    contract.doSomething()  # @req 2
-    contract.doSomethingElse()  # @req 2
+    contract.doSomething()  # @test 2
+    contract.doSomethingElse()  # @test 2
 
 def test_Z(contract):
-    contract.acceptPayment()  # @req 3
-    contract.doSomethingElse()  # @req 3
+    contract.acceptPayment()  # @test 3
+    contract.doSomethingElse()  # @test 3
 ```
 
 And I can create a table for this too:
