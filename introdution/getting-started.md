@@ -10,9 +10,9 @@ The Guidelines are constantly evolving with expert feedback. All suggestions mad
 
 Start with writing a [System Description Document](../project-planning/system-description.md). The [Development Plan](../project-planning/development-plan.md) and [Initial Audit](../project-planning/initial-audit.md) are optional components but quite valuable for new development teams.
 
-## Preparing for an Audit
+## Preparing for an Audit of existing code
 
-If you already have code and your auditor sent you here. Create a [System Description](../project-planning/system-description.md), then jump down to [Software Requirements](../development/software-requirements.md).
+If you already have code and your auditor sent you here. Create a [System Description](../project-planning/system-description.md), then jump down to [Software Requirements](../development/software-requirements.md), and finish up with an [Audit Prep Report](../security-audit/audit-prep-report.md).
 
 ## Reading the Guidelines
 
