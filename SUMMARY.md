@@ -14,7 +14,8 @@
 
 ## Development
 
-* [Software Requirements](development/software-requirements.md)
+* [Software Requirements](development/software-requirements/README.md)
+  * [DNS Example](development/software-requirements/dns-example.md)
 * [Testing](development/testing.md)
 * [Traceability](development/traceability.md)
 * [Managing Changes](development/managing-changes.md)
