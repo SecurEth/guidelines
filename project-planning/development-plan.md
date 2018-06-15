@@ -2,7 +2,7 @@
 
 ## Why do a Development Plan?
 
-An Development Plan says from a development perspective, how you are going to develop, test, audit and deploy your smart contracts. It is a very top level document that shows you have thought through the whole development process.
+A Development Plan says from a development perspective, how you are going to develop, test, audit and deploy your smart contracts. It is a very top level document that shows you have thought through the whole development process.
 
 ## What is included in a Development Plan?
 
