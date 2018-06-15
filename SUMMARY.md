@@ -1,10 +1,9 @@
 # Table of contents
 
-## [Getting Started](README.md)
+* [Getting Started](README.md)
 
 ## Project Planning
 
-* [Planning a New Project](project-planning/planning-a-new-project.md)
 * [System Description](project-planning/system-description.md)
 * [Development Plan](project-planning/development-plan.md)
 * [Initial Audit](project-planning/initial-audit.md)
