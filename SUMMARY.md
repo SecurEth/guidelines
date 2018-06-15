@@ -2,6 +2,8 @@
 
 * [Getting Started](README.md)
 
+---
+
 ## Project Planning
 
 * [System Description](project-planning/system-description.md)
