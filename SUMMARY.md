@@ -46,3 +46,6 @@
 
 * [Guideline Revision Process](contributing/revision-process.md)
 
+---
+
+* [Getting Started](README.md)
