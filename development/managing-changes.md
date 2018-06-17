@@ -2,18 +2,16 @@
 
 Code changes, requirements change. This is impossible to stop. Having requirements traceable to code and test helps managing the impact of changes.
 
-In this case, we are talking about changes in code and/or requirements after the developer has started using our process but before deployment. Code changes after deployment will be discussed in a subsequent article.
+### Change in Requirements
 
-### A Hole in the Requirements
-
-This shouldn't happen if requirement are done correctly. 
+Ideally, requirements are carefully thought through and reviewed beforehand and shouldn't change by them self, but when that happens changes need to be traced to all the affected code and tests.
 
 Checklist:
 
 1. Add or modify a requirement
 2. Change any impacted requirements
 3. Update [Traceability](traceability.md) markers
-4. Look for changes in code and tests
+4. Look for changes in code and tests with updated markers
 5. Validate if any other requirements need changes
 6. Review tests of impacted requirements
 7. Run test suite and validate all pass
