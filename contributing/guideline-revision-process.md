@@ -1,6 +1,6 @@
 # Guideline Revision Process
 
-This is the first public revision to these guidelines.  So we do not have a revision process published yet.  We will follow up as the guidelines evolve.
+This is the first public revision to these guidelines. So we do not have a revision process published yet.  We will follow up as the guidelines evolve.
 
 ## Contributing
 
