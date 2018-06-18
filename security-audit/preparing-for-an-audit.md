@@ -12,8 +12,6 @@ A security auditor's job is to use all of the tools in their toolbox to attempt 
 
 The successful conclusion of an audit is NOT the last step in the process of ensuring security in your application. In fact, there is no last step, because security is a continuous process, and you should be constantly judging whether new knowledge or conditions change this determination that your application is safe enough for your customers to use. Rest assured that if you don't do this, then others will do it for you. In fact, public consensus networks like Ethereum make it extremely easy and profitable for others to find and exploit vulnerabilities in your code for their own personal gain.
 
-A security audit is in many ways a final check in the development process before you should subject your project to the harsh realities of public consensus networks. It is an independent, expert opinion that your project is a GO for launch, and that you are prepared to handle what comes next, to a reasonable degree of certainty.
-
 ## How do I get one?
 
 What an auditor needs to their job effectively is to quickly understand exactly what it is your project is trying to achieve, and under what level of rigor you are looking to qualify it to. The auditor needs several things in order to achieve that understanding. After reading this section, you will build and submit an [audit prep report](audit-prep-report.md) to the auditor, which contains a summary of all the things the auditor will need to begin their work.

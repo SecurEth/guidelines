@@ -10,7 +10,7 @@ Doing a peer review is not necessary, but secondary opinions are often very help
 
 ## How do I do a Peer Review?
 
-There are many things you can do in a peer review. The point is to bring different perspectives on your code to ensure robust design
+There are many things you can do in a peer review. The point is to bring different perspectives on your code to ensure robust design.
 
 ### Requirements Traceability Analysis
 

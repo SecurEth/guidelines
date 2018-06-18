@@ -12,7 +12,7 @@ This report summarizes all the important information the auditor needs to start 
 
 ### Audit Goals
 
-These are the specific goals for this particular audit.  It can outline exactly what is to be audited. Any elements that should be ignored can be indicated here.
+These are the specific goals or scope for this particular audit. It can outline exactly what is to be audited. Any elements that should be ignored can be indicated here.
 
 You should also include a discussion on the level of risk your application will experience. This is an estimate of the amount and value of any assets your application will contain and the time period it will contain those assets for. This will aid the auditor in understanding your risk level.
 
@@ -20,7 +20,7 @@ You should also include a discussion on the level of risk your application will 
 
 This section should note the location of the scripts used to compile the application and run any tests. You must also include all version information of the compiler and any tools used. You should also include the location of the repository, if it is public. Normally this information would be referenced in the project README.
 
-Remember to clean up your repository and organize the folders with clear names.  If needed explain the folder structure.
+Remember to clean up your repository and organize the folders with clear names. If needed explain the folder structure.
 
 ### Tool and Code Review Results
 
@@ -36,5 +36,5 @@ Bug Bounties are a popular process for improving code after the audit but before
 
 ### Deployment Plan
 
-You should allow the auditors to comment on your [deployment plan](../network-release/deployment-plan.md).  It is an area where their experience could add significant value. Do you plan a limited test network release?  Discuss the top level plan. Do you plan a limited main net deployment? The limitations may impact your code. Describe the order you plan to deploy your contracts and the specific options with each deployment.
+You should allow the auditors to comment on your [deployment plan](../network-release/deployment-plan.md). It is an area where their experience could add significant value. Do you plan a limited test network release? Discuss the top level plan. Do you plan a limited main net deployment? The limitations may impact your code. Describe the order you plan to deploy your contracts and the specific options with each deployment.
 
