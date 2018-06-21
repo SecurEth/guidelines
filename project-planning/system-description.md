@@ -8,7 +8,7 @@ This is the first document any outside auditor will read. It gives them context 
 
 ### Who reads the System Description Document?
 
-Any third party that will be working with the smart contracts should read the SDD first. This will include auditors, but could also include new contractors.
+Any third party that will be working with the smart contracts should read the SDD first. This will include auditors, but could also include new colloborators that join your project.
 
 ## What is Included in the SDD?
 
