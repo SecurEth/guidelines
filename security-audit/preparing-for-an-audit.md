@@ -14,5 +14,5 @@ The successful conclusion of an audit is NOT the last step in the process of ens
 
 ## How do I get one?
 
-What an auditor needs to their job effectively is to quickly understand exactly what it is your project is trying to achieve, and under what level of rigor you are looking to qualify it to. The auditor needs several things in order to achieve that understanding. After reading this section, you will build and submit an [audit prep report](audit-prep-report.md) to the auditor, which contains a summary of all the things the auditor will need to begin their work.
+What an auditor needs to do their job effectively is to quickly understand exactly what it is your project is trying to achieve, and under what level of rigor you are looking to qualify it to. The auditor needs several things in order to achieve that understanding. After reading this section, you will build and submit an [audit prep report](audit-prep-report.md) to the auditor, which contains a summary of all the things the auditor will need to begin their work and perform it successfully.
 
