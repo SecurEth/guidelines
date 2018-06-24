@@ -13,5 +13,5 @@ It should contain:
   * Uses the OWASP Model
 * Final signature by the auditor that they performed an audit on your code
 
-This report is a public attestation by the auditor that they did what they mentioned in their final report. It is not an endorsement of the underlying product and should not be used for marketing purposes. It is also not a security or correctness guarantee of the code.
+This report is a attestation by the auditor that they did what they mentioned in their final report. It is not an endorsement of the underlying product and should not be used for marketing purposes. It is also not a security or correctness guarantee of the code.  The audit report can be public or private as defined in the Audit Goals.
 
