@@ -2,7 +2,7 @@
 
 Audits may have multiple rounds of revisions
 
-It is important to maintain clear versioning information and explain in detail how updates were performed
+Important to maintain clear versioning information and explain in detail how updates were performed
 
 Communicate with auditor to resolve all revisions
 
