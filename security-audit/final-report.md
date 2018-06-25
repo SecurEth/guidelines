@@ -10,7 +10,7 @@ It should contain:
 * The final Audit Prep Report
 * A list of issues found
   * Any mitigation or responses are contained here
-  * Uses the OWASP Model
+  * Uses the [Risk Assessment](../development/risk-assessment.md) Model to define severity
 * Final signature by the auditor that they performed an audit on your code
 
 This report is a attestation  by the auditor that they did what they mentioned in their final report. It is not an endorsement of the underlying product and should not be used for marketing purposes. It is also not a security or correctness guarantee of the code.
