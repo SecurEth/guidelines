@@ -20,7 +20,9 @@ Also include any specific security properties which are a priority to verify. Fo
 
 ### Development Environment Information
 
-This section should note the location of the scripts used to compile the application and run any tests. You must also include all version information of the compiler and any tools used. Complete details are important.  In addition to the Solidity version, include things like python packages, ethereum node details and everything relevant for the auditor to build the package.  You should also include the location of the repository, if it is public. Normally this information would be referenced in the project README.
+This section should note the location of the scripts used to compile the application and run any tests. You must also include all version information of the compiler and any tools used, preferrably in files that can be used to install them directly.
+
+Complete details are important.  In addition to compiler version\(s\), include things like packages, ethereum node details and everything relevant for the auditor to build the package on their own without your help.  You should also include the location of the repository, if it is public. Normally this information would be referenced in the project README.
 
 Remember to clean up your repository and organize the folders with clear names. If needed explain the folder structure.
 
