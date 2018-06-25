@@ -18,6 +18,7 @@
   * [DNS Example](development/software-requirements/dns-example.md)
 * [Testing](development/testing.md)
 * [Traceability](development/traceability.md)
+* [Risk Assessment](development/risk-assessment.md)
 * [Managing Changes](development/managing-changes.md)
 * [Peer Reviews](development/peer-reviews.md)
 
