@@ -26,7 +26,7 @@ This contract must do X, Y, and Z.
 
 Here, we use the `@req` tag, which is a docstring-compatible tag that refers to a requirement. We don't have a lot of them, so we marked them 1, 2, and 3.
 
-Now we start writing software. In my code, I am implementing each of these requirements in several places. X might be implemented entirely in 1 method, but Y is not, and Z isn't etiher.
+Now we start writing software. In my code, I am implementing each of these requirements in several places. X might be implemented entirely in 1 method, but Y is not, and Z isn't either.
 
 ```python
 def doX(a: uint256, b: uint256) -> uint256:
