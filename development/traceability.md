@@ -26,7 +26,7 @@ This contract must do X, Y, and Z.
 
 Here, we use the `@req` tag, which is a docstring-compatible tag that refers to a requirement. We don't have a lot of them, so we marked them 1, 2, and 3.
 
-Now we start writing software. In my code, I am implementing each of these requirements in several places. X might be implemented entirely in 1 method, but Y is not, and Z isn't either.
+Now we start writing software. In my code, I am implementing each of these requirements in several places. X might be implemented entirely in 1 method, but Y is not, and Z isn't etiher.
 
 ```python
 def doX(a: uint256, b: uint256) -> uint256:
@@ -52,7 +52,7 @@ def acceptPayment():
 It is starting to sound complicated, but now I can make a simple table that tells me where everything is:
 
 | Req ID | Method\(s\) |
-| --- | --- |
+| :--- | :--- |
 | 1 | `doX()` |
 | 2 | `doSomething()`, `doSomethingElse()` |
 | 3 | `doSomething()`, `acceptPayment()` |
@@ -75,7 +75,7 @@ def test_Z(contract):
 And I can create a table for this too:
 
 | Req ID | Method\(s\) | Test\(s\) |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | 1 | `doX()` | `test_X` |
 | 2 | `doSomething()`, `doSomethingElse()` | `test_Y` |
 | 3 | `doSomething()`, `acceptPayment()` | `test_Z` |
@@ -105,7 +105,7 @@ This contract must do X, Y, and Z.
 Our table now looks like this:
 
 | Req ID | Method\(s\) | Test\(s\) |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | FCF7 | `doX()` | `test_X` |
 | 3D45 | `doSomething()`, `doSomethingElse()` | `test_Y` |
 | 3380 | `doSomething()`, `acceptPayment()` | `test_Z` |

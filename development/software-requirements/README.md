@@ -22,7 +22,7 @@ Requirements must be:
 
 A requirements peer review could be conducted before development and verification begins.
 
-In aerospace, there are three roles in a requirements review. There is the author who wrote the requirements and calls to review. There is the moderator and there is the reviewer\(s\). In a pinch both roles can be done by the same person.  Where personnel are available number of reviewers and their quality must be determined based on the importance of the contract and the experience of the team.
+In aerospace, there are three roles in a requirements review. There is the author who wrote the requirements and calls to review. There is the moderator and there is the reviewer\(s\). In a pinch moderator and reviewer roles can be done by the same person.  Where personnel are available number of reviewers and their quality must be determined based on the importance of the contract and the experience of the team.
 
 When the author calls the review he declares a set of requirements that will be reviewed. He should also include any required background information, such as a [system description](https://drive.google.com/open?id=19iwgv3oZeB0FYL5VRZvVq9i_PIffnZc0NGEFDV3w1v4).
 
