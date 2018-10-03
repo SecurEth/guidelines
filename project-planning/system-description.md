@@ -40,7 +40,7 @@ If your Application uses hardware such as an Internet of Things device, this is 
 
 [Example 1 - Tiny DNS](https://github.com/SecurEth/guidelines/blob/master/project-planning/example1-tinyDNS.md)
 
-[Example 2 - CryptoKitties](https://github.com/SecurEth/guidelines/blob/master/project-planning/cryptoKitties-system-description-document.md)
+[Example 2 - Wayback](https://github.com/SecurEth/Wayback/blob/master/docs/01%20-%20System%20Description%20Document.md)
 
 ## Template
 
