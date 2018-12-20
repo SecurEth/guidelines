@@ -2,7 +2,7 @@
 
 A Preliminary Audit is a video or in-person meeting with the auditor. This audit is much more important to new organizations where the successful deployment is still new to the organization. It will give you an experienced opinion on the schedule, resources, deliverables and expectations for a successful deployment.
 
-## When should an Preliminary Audit take place? {#docs-internal-guid-038fb17c-fb24-a5d8-fdb3-368d9c8b1367}
+## When should an Preliminary Audit take place? <a id="docs-internal-guid-038fb17c-fb24-a5d8-fdb3-368d9c8b1367"></a>
 
 Preliminary audit should take place after initial architecture is complete, but before development begins.
 

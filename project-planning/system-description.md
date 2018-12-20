@@ -42,6 +42,8 @@ If your Application uses hardware such as an Internet of Things device, this is 
 
 [Example 2 - Wayback](https://github.com/SecurEth/Wayback/blob/master/docs/01%20-%20System%20Description%20Document.md)
 
+[Example 3 - CryptoZombies Lesson 4](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson4/doc/SystemDefinitionDoc.md)
+
 ## Template
 
 What is the top level of your System/Application/Product?

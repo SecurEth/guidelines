@@ -38,6 +38,22 @@ After review is complete, requirements must be “locked down” and given uniqu
 
 One way to do this is to use the first 2 bytes of the sha256 hash for each requirement text.
 
+### Examples
+
+#### CryptoZombies Lesson 5
+
+Here are the five contracts in the original CryptoZombie release with requirements included.  The exact format of requirements has not been finalized so consider the example here and in DNS \(which is differant\) as indicative.
+
+[ZombieFactory.sol](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson5/contracts/ZombieFactory.sol)
+
+[ZombieFeeding.sol](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson5/contracts/ZombieFeeding.sol)
+
+[ZombieHelper.sol](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson5/contracts/ZombieHelper.sol)
+
+[ZombieAttack.sol](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson5/contracts/ZombieAttack.sol)
+
+[ZombieOwnership.sol](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson5/contracts/ZombieOwnership.sol)
+
 ### Example Requirements Checklist
 
 [https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists](https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists)
