@@ -112,3 +112,5 @@ Our table now looks like this:
 
 In this system, if we decided that requirement `FCF7` doesn't fully encompass what it needs to, we might change that to "Do W and X". However, in doing this, the hash is updated to `4FE9`. Well, all our tests and implementations still say `FCF7` which is no longer a valid requirement ID, so we have to go through and make sure we update all the places it was referenced and validate that the statements we were making are still valid. This forces us to reconcile changes as they happen, and ensures that all changes are well-communicated to the team, otherwise the report will break and the traceability will be incomplete.
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

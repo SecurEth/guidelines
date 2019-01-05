@@ -8,3 +8,5 @@ When they have verified the reproducibility of your results, they will need to v
 
 You might also run additional tools on your code. Each tool should have a separate [Tool Report](../tools/tool-reports.md) about that tool and how it was used in your codebase. Include this for every tool that verifies or validates any portion of your requirements and/or codebase. You can find a list of them [here](../tools/existing-tools.md).
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

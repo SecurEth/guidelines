@@ -15,3 +15,5 @@ It should contain:
 
 This report is a attestation  by the auditor that they did what they mentioned in their final report. It is not an endorsement of the underlying product and should not be used for marketing purposes. It is also not a security or correctness guarantee of the code.
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

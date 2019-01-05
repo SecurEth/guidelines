@@ -32,3 +32,5 @@ Adhering to a coding style guide is a great way to ensure consistency and make y
 
 ## Example Peer Review
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

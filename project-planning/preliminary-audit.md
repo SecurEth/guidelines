@@ -12,3 +12,5 @@ Preliminary audit should take place after initial architecture is complete, but 
 
 The discussion should follow the points in the [Development Plan](development-plan.md). The intent is to validate the plan as reasonable and achievable. If not, the auditor should discuss improvements. 
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

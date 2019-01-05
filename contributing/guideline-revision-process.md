@@ -8,3 +8,5 @@ If you have a specific concern, point of discussion, or have a major update to m
 
 If you have any minor updates \(language, consistency, graphics\), feel free to submit a PR [here](https://github.com/SecurEth/guidelines/compare).
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

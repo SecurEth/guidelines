@@ -56,5 +56,7 @@ Here are the five contracts in the original CryptoZombie release with requiremen
 
 ### Example Requirements Checklist
 
-[https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists](https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists)
+{% embed url="https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists" %}
+
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

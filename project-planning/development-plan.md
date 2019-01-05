@@ -21,6 +21,8 @@ The Development Plan says what you want to do before you do it. You can present 
 
 [Example 1 - Wayback](https://github.com/SecurEth/Wayback/blob/master/docs/03%20-%20Development%20Plan.md)
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
   
   
 

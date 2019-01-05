@@ -52,3 +52,5 @@ What does the User see and do with the Application?
 
 Describe any tokens involved in the system, including value and flow.
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

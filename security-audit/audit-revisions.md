@@ -8,3 +8,5 @@ Communicate with auditor to resolve all revisions
 
 Sometimes revision suggestions are not actionable or practical to implement. Explain why. Comment if you plan on implementing non-critical suggestions in a future release.
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

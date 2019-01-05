@@ -42,3 +42,5 @@ Bug Bounties are a popular process for improving code after the audit but before
 
 You should allow the auditors to comment on your [deployment plan](../network-release/deployment-plan.md). It is an area where their experience could add significant value. Do you plan a limited test network release? Discuss the top level plan. Do you plan a limited main net deployment? The limitations may impact your code. Describe the order you plan to deploy your contracts and the specific options with each deployment.
 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
