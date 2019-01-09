@@ -1,10 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-
-## Introdution
-
-* [Getting Started](introdution/getting-started.md)
+* [Getting Started](getting-started.md)
 
 ## Project Planning
 
