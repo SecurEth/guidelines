@@ -1,6 +1,6 @@
 # Guideline Revision Process
 
-This is the first public revision to these guidelines. So we do not have a revision process published yet.  We will follow up as the guidelines evolve.
+This is the first public revision to these guidelines. So we do not have a revision process published yet. We will follow up as the guidelines evolve.
 
 ## Contributing
 
@@ -12,20 +12,23 @@ If you have any minor updates \(language, consistency, graphics\), feel free to 
 
 ### Writers/Admins
 
-#### Formatting changes (Writers/Admins only):
-- In GitBook UI switch to `master` branch
-- Make changes through gitbook UI
-- Publish
+#### Formatting changes \(Writers/Admins only\):
 
-#### Creating a new release (Writers/Admins only):
-- In GitBook UI switch to `master` branch
-- Edit as a draft
-- Press on the current version
-- Create a new release
-- Use semver to get the next version (v[major].[minor].[patch])
-- Use the same value for name and path
-- Make this version primary
-- Save & Publish
-- [Create githut release?]
+* In GitBook UI switch to `master` branch
+* Make changes through gitbook UI
+* Publish
 
- Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+#### Creating a new release \(Writers/Admins only\):
+
+* In GitBook UI switch to `master` branch
+* Edit as a draft
+* Press on the current version
+* Create a new release
+* Use semver to get the next version \(v\[major\].\[minor\].\[patch\]\)
+* Use the same value for name and path
+* Make this version primary
+* Save & Publish
+* \[Create githut release?\]
+
+  Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

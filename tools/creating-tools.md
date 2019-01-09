@@ -8,5 +8,5 @@ For example, a verification tool may be developed that automates the generation 
 
 A set of requirements should be developed, derieved from a set of goals underpinning the tool, and proper traceability of those requirements to relevant test cases must be shown. Some level of formal analysis should be performed to ensure that these requirements properly implement the goals of the tool, and that the test cases test all relevant states the tool operates in \(as well as proper function\).
 
- Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

@@ -1,6 +1,6 @@
 # DNS Example
 
-## Requirements Specification <a id="docs-internal-guid-9d3cc77f-0456-331f-7125-1385d39651a5"></a>
+## Requirements Specification  <a id="docs-internal-guid-9d3cc77f-0456-331f-7125-1385d39651a5"></a>
 
 \(derived from SDD/Goals\):
 
@@ -9,7 +9,7 @@
 3. The DNS contract shall allow the owner of a domain to change the resolved address. \(`sha256[:3]` is e532\)
 4. The DNS contract shall allow anyone to perform a lookup of a registered domain’s resolved address. \(`sha256[:3]` is fffc\)
 
-## Implementation: <a id="docs-internal-guid-bc5fbce9-0457-3f17-6421-28ed7079afd5"></a>
+## Implementation:  <a id="docs-internal-guid-bc5fbce9-0457-3f17-6421-28ed7079afd5"></a>
 
 {% code-tabs %}
 {% code-tabs-item title="DNS.sol" %}

@@ -8,5 +8,5 @@ Therefore, tools themselves need to follow concrete rules about their operation 
 
 You should follow the Guidelines for any tool development, add documentation about the [Qualification Status](qualifying-tools.md) of your tool, and finally create a template for a [Tool Report](tool-reports.md)
 
- Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

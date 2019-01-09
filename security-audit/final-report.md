@@ -13,7 +13,7 @@ It should contain:
   * Uses the OWASP Model
 * Final signature by the auditor that they performed an audit on your code
 
-This report is a attestation  by the auditor that they did what they mentioned in their final report. It is not an endorsement of the underlying product and should not be used for marketing purposes. It is also not a security or correctness guarantee of the code.
+This report is a attestation by the auditor that they did what they mentioned in their final report. It is not an endorsement of the underlying product and should not be used for marketing purposes. It is also not a security or correctness guarantee of the code.
 
- Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

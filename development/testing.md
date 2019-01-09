@@ -39,5 +39,5 @@ Ensure all your functional test cases map to a requirement. [Traceability Matrix
 
 ### Coverage Testing
 
- Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

@@ -14,13 +14,13 @@ The Guidelines often do not tell you exactly how something should be done, but g
 
 ## Giving Feedback
 
-We encourage feedback. This is just getting started and we want to be sure we are meeting peoples needs. At a minimum, please hit one of the happy/sad faces.  
+We encourage feedback. This is just getting started and we want to be sure we are meeting peoples needs. At a minimum, please hit one of the happy/sad faces.
 
 For a more detailed response, please report an [issue ](https://github.com/SecurEth/guidelines/issues/new)on our GitHub.
 
 ## Contributing
 
-For the moment, if you wish to contribute, please submit an [issue ](https://github.com/SecurEth/guidelines/issues/new)as above.  We will add a more formal [contribution](contributing/guideline-revision-process.md) section with a style guide, etc in the near future.
+For the moment, if you wish to contribute, please submit an [issue ](https://github.com/SecurEth/guidelines/issues/new)as above. We will add a more formal [contribution](contributing/guideline-revision-process.md) section with a style guide, etc in the near future.
 
- Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

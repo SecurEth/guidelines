@@ -3,10 +3,13 @@
 Architecture is a document that describes how things work.
 
 What is the goal of architecting before coding?
+
 * Spend more time figuring out how your code will work
 * Spend less time writing code
 * 80% of time architecting, 20% coding
-But really...
+
+  But really...
+
 * Reduce time spent rewriting code
 * Improve code quality and cohesion
 * Future-proofing code
@@ -14,17 +17,19 @@ But really...
 [Exhibit-1](https://i.imgur.com/LNiWI2q.jpg)
 
 ## Process
-1. Draft the architecture for the feature using [the template](architecture-template.md)
-* Be sure to describe, in as much detail, every section of the template
-* Commit your architecture every day or two
-* Present the architecture to a qualified party
-* Implement the feature
-* Update the architecture as you go, especially the R&D section
-* Update the architecture upon completing your feature
-* Completion date, post-mortem, R&D, etc.
+
+1. Draft the architecture for the feature using [the template](https://github.com/SecurEth/guidelines/tree/0f25823c12e6701ebea929ffe4da741b927b7fb7/project-planning/architecture-template.md)
+2. Be sure to describe, in as much detail, every section of the template
+3. Commit your architecture every day or two
+4. Present the architecture to a qualified party
+5. Implement the feature
+6. Update the architecture as you go, especially the R&D section
+7. Update the architecture upon completing your feature
+8. Completion date, post-mortem, R&D, etc.
 
 Template
-```md
+
+```text
 # [Feature Title]
 
 
@@ -158,9 +163,11 @@ Example:
 function yoMama() {}
 ```
 
-### [another/file/path.js]
+### \[another/file/path.js\]
+
 Here is an example of a changed file:
-```js
+
+```javascript
 // ...
 
 /**
@@ -187,9 +194,11 @@ const EXISTING_CONSTANT = {
 }
 ```
 
-### [contract/location/wayback.sol]
+### \[contract/location/wayback.sol\]
+
 Here is an example of a contract interface:
-```sol
+
+```text
 contract Wayback {
   /**
    * Keep documenting.
@@ -204,7 +213,9 @@ contract Wayback {
 }
 ```
 
-```
+\`\`\`
 
 Examples
+
 * [Wayback](https://github.com/SecurEth/Wayback/blob/master/docs/02%20-%20Architecture.md)
+
