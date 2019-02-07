@@ -52,5 +52,41 @@ contract DNS {
 }
 ```
 {% endcode-tabs-item %}
+{% code-tabs-item title="DNS.vy" %}
+```python
+"""
+@title DNS Registrar
+"""
+
+# Store the owner of a particular domain
+domainOwner: public(map(string[40], address))
+
+# Store the resolution of a particular domain
+# @imp fffc `public` provides access method for domain resolver
+domainResolution: public(mapping(string => address))
+
+@public
+def setDomainResolution(
+    _domain: string[40],
+    _resolution: address,
+):
+    """
+    @title setDomainResolution Allows user to set resolution for address
+    @param _domain Domain name as ASCII string
+    @param _resolution Address domain will resolve to
+    """
+    # @imp c84d Check if name has been previously registered
+    if (self.domainOwner[_domain] != ZERO_ADDRESS):
+        # @imp 35a4 Reject if domain has been registered to another user
+        assert self.domainOwner[_domain] == msg.sender
+    else: # domain owner is unset for this domain
+        # @imp c84d Keep track of newly registered domain
+        self.domainOwner[_domain] = msg.sender
+
+    # @imp c84d Allow user to set resolution for newly registered domain
+    # @imp e532 Allow user to change resolution for a domain they own
+    self.domainResolution[_domain] = _resolution
+```
+{% endcode-tabs-item %}
 {% endcode-tabs %}
 
