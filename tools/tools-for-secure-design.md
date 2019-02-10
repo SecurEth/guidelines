@@ -6,7 +6,11 @@ It is important however to realize that tools can also abstract away critical re
 
 Therefore, tools themselves need to follow concrete rules about their operation if they assist in the design or verification process of production code. They should always err on the side of caution, only proceeding with removing human interaction if there is a complete guarantee that it does not introduce new errors, or conceal existing ones.
 
-You should follow the Guidelines for any tool development, add documentation about the [Qualification Status](qualifying-tools.md) of your tool, and finally create a template for a [Tool Report](tool-reports.md)
+You should follow the Guidelines for any tool development, add documentation about the [Qualification Status](qualifying-tools.md) of your tool, and finally create a template for a [Tool Report](tool-reports.md).
+
+##  
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

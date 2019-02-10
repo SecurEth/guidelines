@@ -4,5 +4,9 @@ Tools automate activities away from human control. This can potentially be dange
 
 Tools should be written in a way where every decision being automated is guaranteed not to cause an a false negative scenario in smart contract code that will be deployed in a production environment. All tools should err on the side of caution basically.
 
+##  
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
