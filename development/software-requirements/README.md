@@ -42,7 +42,9 @@ One way to do this is to use the first 2 bytes of the sha256 hash for each requi
 
 ### CryptoZombies Lesson 5
 
-Here are the five contracts in the original CryptoZombie release with requirements included. The exact format of requirements has not been finalized so consider the example here and in DNS \(which is differant\) as indicative.
+Check [here ](../../examples.md)for a description of the examples used below.
+
+Here are the five contracts in the original CryptoZombie release with requirements included. The exact format of requirements has not been finalized so consider the example here and in DNS \(which is different\) as indicative.
 
 [ZombieFactory.sol](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson5/contracts/ZombieFactory.sol)
 
@@ -57,6 +59,8 @@ Here are the five contracts in the original CryptoZombie release with requiremen
 ## Example Requirements Checklist
 
 {% embed url="https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists" caption="" %}
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

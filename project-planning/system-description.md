@@ -38,11 +38,13 @@ If your Application uses hardware such as an Internet of Things device, this is 
 
 ## Examples
 
-[Example 1 - Tiny DNS](https://github.com/SecurEth/guidelines/blob/master/project-planning/example1-tinyDNS.md)
+Check [here ](../examples.md)for a description of the examples used below.
 
-[Example 2 - Wayback](https://github.com/SecurEth/Wayback/blob/master/docs/01%20-%20System%20Description%20Document.md)
+[Example 1 - CryptoZombies Lesson 4](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson4/doc/SystemDefinitionDoc.md)
 
-[Example 3 - CryptoZombies Lesson 4](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson4/doc/SystemDefinitionDoc.md)
+[Example 2 - Tiny DNS](https://github.com/SecurEth/guidelines/blob/master/project-planning/example1-tinyDNS.md)
+
+[Example 3 - Wayback](https://github.com/SecurEth/Wayback/blob/master/docs/01%20-%20System%20Description%20Document.md)
 
 ## Template
 
@@ -52,5 +54,11 @@ What does the User see and do with the Application?
 
 Describe any tokens involved in the system, including value and flow.
 
+##  
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
 

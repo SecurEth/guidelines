@@ -52,5 +52,9 @@ Checklist:
 
 Minimum possible change to stop the problem from occurring. Doing that allows you to have more time to prepare an appropriate bugfix. This should be avoided in favour of other mechanisms, like emergency stop.
 
+##  
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

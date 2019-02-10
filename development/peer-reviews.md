@@ -28,9 +28,15 @@ Automated testing tools are another great way to discover potential vulnerabilit
 
 Adhering to a coding style guide is a great way to ensure consistency and make your auditor’s job easier. We’re not going to tell you what style guide to use, but more consistency in your code is always a good thing and makes it easier to spot inconsistencies that could be bugs. Also, you can use documentation in your code \(through natspec-style comments\) to help generate additional documentation that allows you to verify things like requirements and test traceability.
 
-## Peer Review Template
+## To be done
 
-## Example Peer Review
+### Peer Review Template
+
+### Example Peer Review
+
+##  
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

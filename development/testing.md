@@ -31,13 +31,30 @@ So, there's a lot of testing that needs to get done, that much is obvious. How d
 
 ### Requirements Traceability
 
+First off, test your requirements.  If you test all your requirements
+
 Ensure all your functional test cases map to a requirement. [Traceability Matrixes](traceability.md) can help you find any missing or incomplete traceability, and [Peer Reviews](peer-reviews.md) can help you find mistakes in your test traceability
+
+## Examples
+
+Check [here ](../examples.md)for a description of the examples used below.
+
+[Example 1 - CryptoZombies - ZombieFactory.js](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson2/test/ZombieFactory.js)
+
+[Example 2 - CryptoZombies ZombieFeeding.js](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson2/test/ZombieFeeding.js)
+
+## To be done
 
 ### Test Driven Development
 
 ### Continuous Integration
 
 ### Coverage Testing
+
+##  
+
+  
+Got a comment? Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

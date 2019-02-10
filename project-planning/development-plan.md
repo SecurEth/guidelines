@@ -19,7 +19,17 @@ The Development Plan says what you want to do before you do it. You can present 
 
 ## Examples
 
+Check [here](https://guidelines.secureth.org/~/drafts/-LYK-er8rFx9EqN-FOUm/primary/v/master/examples) for a description of the examples used below.
+
 [Example 1 - Wayback](https://github.com/SecurEth/Wayback/blob/master/docs/03%20-%20Development%20Plan.md)
 
+[Example 2 - Crypto Zombies](https://github.com/SecurEth/CryptoZombiesT2/blob/master/Lesson5/doc/Development%20Plan.md)
+
+##  
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
 

@@ -18,3 +18,9 @@ This repository includes an example application created for the EyhBerlin hackat
 
 [Wayback documentation](https://github.com/SecurEth/Wayback/tree/master/docs)
 
+##  
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
+
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+

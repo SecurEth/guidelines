@@ -22,5 +22,9 @@ For a more detailed response, please report an [issue ](https://github.com/Secur
 
 For the moment, if you wish to contribute, please submit an [issue ](https://github.com/SecurEth/guidelines/issues/new)as above. We will add a more formal [contribution](contributing/guideline-revision-process.md) section with a style guide, etc in the near future.
 
+##  
+
+Got a comment?  Check out our [Gitter Channel](https://gitter.im/SecurEth_Guidelines/community#)!
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
