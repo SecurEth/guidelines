@@ -1,5 +1,9 @@
 # Examples
 
+## USER SURVEY -- URGENT
+
+Users, please make a comment on the gitter channel!  In order to get funding to keep the guidelines alive, we need proof of users, so please  make a comment on the gitter, thanks.
+
 The guidelines have examples to give the reader the context into exactly what is being described. The examples are complete, self standing GitHub repositories. In each repository there are appropriate documents in the ./doc directory,the contract code is commented with requirements and heading comments. There are tests in the ./test directory that test the requirements and tool outputs of the various development tools to be used \(still in development\). The code complies and the test execute properly.
 
 ### Crypto Zombie Example

@@ -1,5 +1,9 @@
 # Development Plan
 
+## USER SURVEY -- URGENT
+
+Users, please make a comment on the gitter channel!  In order to get funding to keep the guidelines alive, we need proof of users, so please  make a comment on the gitter, thanks.
+
 A Development Plan says from a development perspective, how you are going to develop, test, audit and deploy your smart contracts. It is a very top level document that shows you have thought through the whole development process.
 
 ## Why do a Development Plan?

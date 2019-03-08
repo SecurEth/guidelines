@@ -1,5 +1,9 @@
 # Introduction
 
+## USER SURVEY -- URGENT
+
+Users, please make a comment on the gitter channel!  In order to get funding to keep the guidelines alive, we need proof of users, so please  make a comment on the gitter, thanks.
+
 ## About the Guidelines
 
 These guidelines are a community resource. They are meant to help guide and inform you through your development process and ensure the highest quality results in your smart contract system and your end product.
